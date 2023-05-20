@@ -30,7 +30,7 @@ I'm a third-year Ph.D. candidate at the National University of Singapore, advise
 
 <h2>Research Interests</h2>
 <p>
-My primary research interests are the methodologies of stochastic optimal control and robust data-driven optimization, with applications in dynamic service system management and healthcare operations.
+My research interests mainly lie in the methodologies of stochastic optimal control, data-driven optimization and (distritbutionally) robust optimization, with applications in dynamic service system management, healthcare operations and smart city operations.
 </p>
 
 </body>
