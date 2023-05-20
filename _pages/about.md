@@ -22,9 +22,9 @@ redirect_from:
   National University of Singapore <br>
 </p>
 
-<h2>About me</h2>
+<h2>About Me</h2>
 <p>
-Hi, welcome to my homepage! I'm a third-year Ph.D. candidate at the National University of Singapore advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(73, 78, 82);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(73, 78, 82)">Zhisheng Ye</a>. I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University. During my undergraduate, I have been a summer research intern at the University of Florida supervised by Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(73, 78, 82);">Xu Sun</a>.
+Hi, welcome to my homepage. I'm a third-year Ph.D. candidate at the National University of Singapore advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(73, 78, 82);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(73, 78, 82)">Zhisheng Ye</a>. I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University. During my undergraduate, I have been a summer research intern at the University of Florida supervised by Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(73, 78, 82);">Xu Sun</a>.
 </p>
 
 <h2>Research Interests</h2>
