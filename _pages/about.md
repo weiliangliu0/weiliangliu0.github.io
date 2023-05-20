@@ -18,19 +18,19 @@ redirect_from:
 <!-- <h2 style="margin-top: 1em;">Info</h2>  -->
 <p style="margin-top: 1em;">
   Ph.D. Candidate  <br>
-  Industrial Systems Engineering and Management  <br>
+  Dept. of Industrial Systems Engineering and Management  <br>
   National University of Singapore <br>
   Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>
 
 <h2>About Me</h2>
 <p>
-Hi, welcome to my homepage. I'm a third-year Ph.D. candidate at the National University of Singapore advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(73, 78, 82);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(73, 78, 82)">Zhisheng Ye</a>. I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University. During my undergraduate, I have been a summer research intern at the University of Florida supervised by Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(73, 78, 82);">Xu Sun</a>.
+I'm a third-year Ph.D. candidate at the National University of Singapore, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(73, 78, 82);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(73, 78, 82)">Zhisheng Ye</a>. Previsouly, I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University. I have also been a summer research intern at the University of Florida during my undergraduate, supervised by Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(73, 78, 82);">Xu Sun</a>.
 </p>
 
 <h2>Research Interests</h2>
 <p>
-My primary research interests are in stochastic optimal control and robust data-driven optimization with applications in dynamic service system management and healthcare operations.
+My primary research interests are the methodologies of stochastic optimal control and robust data-driven optimization, with applications in dynamic service system management and healthcare operations.
 </p>
 
 </body>
