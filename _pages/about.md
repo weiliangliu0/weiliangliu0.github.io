@@ -20,6 +20,7 @@ redirect_from:
   Ph.D. Candidate  <br>
   Industrial Systems Engineering and Management  <br>
   National University of Singapore <br>
+  Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>
 
 <h2>About Me</h2>
