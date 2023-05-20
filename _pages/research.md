@@ -39,7 +39,7 @@ author_profile: true
 <h2>Work in Progress</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 	<li><b>Optimal Alert of Community Responders.</b> <br>
-	In preparation for <i>Operations Research</i>, 2023.
+	In preparation for <i>Operations Research</i>, 2023. </li>
 </ol>
 
 </body>
