@@ -17,7 +17,7 @@ author_profile: true
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 	<li><b>Robust Data-Driven Design of a Smart Cardiac Arrest System</b> <br>
 	Weiliang Liu, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye.
-	Under review at <i>Production and Operations Management Society</i>, 2023.</li>
+	Under review.</li>
   <!--  -->
 	<li><b>Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</b> <br>
 	Xin Wang, Weiliang Liu, Loon Ching Tang, Zhisheng Ye.
@@ -39,7 +39,7 @@ author_profile: true
 <h2>Work in Progress</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 	<li><b>Optimal Alert of Community Responders</b> <br>
-	In preparation for <i>Operations Research</i>, 2023. </li>
+	In preparation, 2023. </li>
 </ol>
 
 </body>
