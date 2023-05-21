@@ -25,7 +25,7 @@ redirect_from:
 
 <h2>About Me</h2>
 <p>
-I'm a third-year Ph.D. candidate at the National University of Singapore, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. Previsouly, I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University. I have been a research intern at the University of Florida, supervised by Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>. This is my [CV](http://weiliangliu-nus.github.io/files/WeiliangLiu_CV_0521_2023.pdf).
+I'm a third-year Ph.D. candidate at the National University of Singapore, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. Previsouly, I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University. I have been a research intern at the University of Florida, supervised by Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>. This is my <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_CV_0521_2023.pdf" target="_blank">CV</a>.
 </p>
 
 <h2>Research Interests</h2>
