@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weiliang Liu"
+title: "Weiliang (Leon) Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
