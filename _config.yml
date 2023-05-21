@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Weiliang Liu"
+name                     : &name "Weiliang (Leon) Liu"
 description              : &description "personal description"
 url                      : https://weiliangliu-nus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
