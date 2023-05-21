@@ -11,7 +11,8 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 12pt;">
 
-<h2 style="margin-top: 1em;">Tutor</h2>
+<!-- <h2 style="margin-top: 1em;">Tutor</h2>-->
+I have been the tutor for the following courses at NUS.
 <ul>
 	<li>IE5005 Data Analytics for Industrial Engineers (Master) -- Fall 2021, Fall 2022</li>
   <li> IE4213/EE4802 Learning from Data (Undergraduate) -- Fall 2020, Spring 2021, Spring 2022</li>
