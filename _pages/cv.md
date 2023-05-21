@@ -4,4 +4,4 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 ---
-[My CV is here.](http://weiliangliu-nus.github.io/files/Academic_CV.pdf)
+[PDF](http://weiliangliu-nus.github.io/files/WeiliangLiu_CV.pdf)

@@ -25,7 +25,7 @@ author_profile: true
   <!--  -->
 	<li><b>Expanding Service Capabilities Through an On-Demand Workforce</b> <br>
 	Xu Sun, <u>Weiliang Liu</u>.
-	Under revision at <i>Operations Research</i>, 2023</li>
+	Major revision at <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>]</li>
   <!--  -->
 	<li><b>Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</b> <br>
 	<u>Weiliang Liu</u>, Xu Sun.
