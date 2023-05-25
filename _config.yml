@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Weiliang Liu's Website"
 title_separator          : "-"
 name                     : &name "Weiliang Liu"
 description              : &description "personal description"
