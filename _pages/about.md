@@ -23,7 +23,7 @@ redirect_from:
   Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>-->
 
-<p> Hi, welcome to my website!
+<p> Hi, welcome to my homepage!
 </p>
 
 <h2>About Me</h2>
