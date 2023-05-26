@@ -15,7 +15,7 @@ author_profile: true
 
 <h2 style="margin-top: 1em;">Completed Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
-	<li><b>Robust Data-Driven Design of a Smart Cardiac Arrest System</b> <br>
+	<li><b>Robust Data-Driven Design of a Smart Cardiac Arrest Response System</b> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye.
 	Under review.</li>
   <!--  -->

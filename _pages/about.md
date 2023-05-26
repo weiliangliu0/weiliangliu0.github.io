@@ -23,6 +23,9 @@ redirect_from:
   Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>-->
 
+<p> Hi, welcome to my website!
+</p>
+
 <h2>About Me</h2>
 <p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_CV_0521_2023.pdf" target="_blank">Download My CV Here.</a>
 </p>
@@ -39,8 +42,8 @@ My primary research interests are stochastic modeling & control, data-driven dec
 
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
- Industrial Systems Engineering and Management, NUS <br>
- Engineering Drive 2, Block E1A, #06-25, Singapore, 117576 <br>
+Industrial Systems Engineering and Management, NUS <br>
+Engineering Drive 2, Block E1A, #06-25, Singapore, 117576 <br>
 Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>
 </body>
