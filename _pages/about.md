@@ -28,7 +28,7 @@ redirect_from:
 </p>
 
 <p>
-I'm a third-year Ph.D. candidate at the NUS, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also have the pleasure to work closely with Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who supervised my undergraduate research internship at the University of Florida.
+I'm a third-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also have the pleasure to work closely with Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who supervised my undergraduate research internship at the University of Florida.
 I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University.
 </p>
 
@@ -39,7 +39,7 @@ My primary research interests are stochastic modeling & control, data-driven dec
 
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
- Industrial Systems Engineering and Management, National University of Singapore (NUS) <br>
+ Industrial Systems Engineering and Management, NUS <br>
  Engineering Drive 2, Block E1A, #06-25, Singapore, 117576 <br>
 Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>
