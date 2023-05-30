@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Weiliang Liu"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,12 +23,14 @@ redirect_from:
   Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>-->
 
+<p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_CV_0521_2023.pdf" target="_blank">Download My CV Here.</a>
+</p>
+
 <p> Hi, welcome to my homepage!
 </p>
 
-<h2>About Me</h2>
-<p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_CV_0521_2023.pdf" target="_blank">Download My CV Here.</a>
-</p>
+<!-- <h2>About Me</h2>-->
+
 
 <p>
 I'm a third-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also have the pleasure to work closely with Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who supervised my undergraduate research internship at the University of Florida.
