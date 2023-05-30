@@ -31,7 +31,6 @@ redirect_from:
 
 <!-- <h2>About Me</h2>-->
 
-
 <p>
 I'm a third-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also have the pleasure to work closely with Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who supervised my undergraduate research internship at the University of Florida.
 I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University.
@@ -39,13 +38,28 @@ I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao
 
 <!-- <h2>Research Interests</h2> -->
 <p>
-My primary research interests are stochastic modeling & control, data-driven decision making and robust optimization with applications in dynamic service system management and healthcare operations.
+My primary research interests are stochastic modeling & control and robust optimization with applications in dynamic service system management and healthcare operations.
 </p>
+
+<h2>Research</h2>
+<p style="margin-top: 1em;">
+A list of my research papers can be found <a href="https://weiliangliu-nus.github.io/research/" target="_blank">here.</a>
+</p>
+
+<h2>Teaching</h2>
+<p style="margin-top: 1em;">
+I have been the tutor of the following courses at NUS.
+<ul>
+	<li>IE5005 Data Analytics for Industrial Engineers (Master) -- Fall 2021, Fall 2022</li>
+  <li> IE4213/EE4802 Learning from Data (Undergraduate) -- Fall 2020, Spring 2021, Spring 2022</li>
+</ul>
+</p>
+
 
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
 Industrial Systems Engineering and Management, NUS <br>
-Engineering Drive 2, Block E1A, #06-25, Singapore, 117576 <br>
+<!--Engineering Drive 2, Block E1A, #06-25, Singapore, 117576 <br>-->
 Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>
 </body>
