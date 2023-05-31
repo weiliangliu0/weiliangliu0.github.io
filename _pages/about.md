@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -31,12 +31,14 @@ redirect_from:
 
 <p>
 Hello! I'm a third-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also work closely with Professor <a href="https://www.ise.ufl.edu/sun/" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who has supervised my undergraduate research at the University of Florida.
-I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University at 2020.
+I obtained my B.E. in Industrial Engineering at the Shanghai Jiao Tong University at 2020.
 </p>
 
 <h2>Research Interests</h2>
 <p>
-My primary research interests lie in the design and control of service systems with stochastic dynamics or under uncertainty. I am particularly interested in service systems that involves emerging technologies and novel bussiness models, such as drones, responder crowdsroucing Apps and on-demand workforce.</p>
+My primary research interests lie in the design and control of service systems with stochastic dynamics or uncertainty. I am particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, responder crowdsroucing Apps and on-demand workforce.
+My research seeks to capture and reveal the rich interactions between different entities and between different control levers in these systems.
+</p>
 
 <p>
 My research utilizes tools from stochastic modeling, diffusion approximation, optimal control and robust optimization with applications in drone-delivery systems, emergency medical response and call centers.</p>
