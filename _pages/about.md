@@ -39,8 +39,8 @@ I obtained my B.E. in Industrial Engineering at the Shanghai Jiao Tong Universit
 My primary research interests lie in the design and control of service systems with stochastic dynamics or uncertainty. </p>
 
 <p>
-I am particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, responder crowdsroucing Apps and on-demand workforce.
-My research seeks to capture and reveal the rich interactions between different entities and between different control levers in these systems.
+I am particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, volunteer crowdsroucing Apps and on-demand workforce.
+I seek to capture and reveal the rich interactions between different entities and between different control levers in these systems.
 </p>
 
 <p>
@@ -66,6 +66,6 @@ I have been the tutor of the following courses at NUS.
 <p style="margin-top: 1em;">
 Industrial Systems Engineering and Management, NUS <br>
 <!--Engineering Drive 2, Block E1A, #06-25, Singapore, 117576 <br>-->
-Email: weiliangliu[at]u[dot]nus.edu <br>
+Email: weiliangliu[at]u[dot]nus[dot]edu <br>
 </p>
 </body>
