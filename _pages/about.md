@@ -23,7 +23,7 @@ redirect_from:
   Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>-->
 
-<p>  <a href="http://weiliangliu-nus.github.io/files/Academic_CV.pdf" target="_blank">Download My CV Here.</a>
+<p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">Download My CV Here.</a>
 </p>
 
 
