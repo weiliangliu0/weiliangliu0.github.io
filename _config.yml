@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiliang Liu's Website"
+title                    : "Weiliang Liu"
 title_separator          : "-"
 name                     : &name "Weiliang Liu"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Weiliang Liu"
-  avatar           : "suite-min.jpg"
+  avatar           : "lwl.jpg"
   #bio              : "Your biography for the left-hand sidebar"
   location         : "Singapore"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
