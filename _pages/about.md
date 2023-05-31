@@ -40,7 +40,7 @@ My primary research interests lie in the design and control of service systems w
 
 <p>
 I am particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, volunteer crowdsroucing Apps and on-demand workforce.
-I seek to capture and reveal the rich interactions between different entities and between different control levers in these systems.
+I seek to reveal and provide insights into the rich interactions between different entities and between different control levers in these systems.
 </p>
 
 <p>
