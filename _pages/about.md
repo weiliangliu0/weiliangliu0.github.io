@@ -36,7 +36,7 @@ I obtained my B.E. in Industrial Engineering at the Shanghai Jiao Tong Universit
 
 <h2>Research Interests</h2>
 <p>
-My primary research interests lie in the design and control of service systems with stochastic dynamics or uncertainty. </p>
+My primary research interests lie in the design and control of service systems with stochastic dynamics or under uncertainty. </p>
 
 <p>
 I am particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, volunteer crowdsroucing Apps and on-demand workforce.
