@@ -23,24 +23,24 @@ redirect_from:
   Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>-->
 
-<p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_CV_0521_2023.pdf" target="_blank">Download My CV Here.</a>
+<p>  <a href="http://weiliangliu-nus.github.io/files/Academic_CV.pdf" target="_blank">Download My CV Here.</a>
 </p>
 
 
 <!-- <h2>About Me</h2>-->
 
 <p>
-Hello! I'm a third-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also have the pleasure to collaborate closely with Professor <a href="https://scholar.google.com/citations?user=J-W9OCUAAAAJ&hl=en" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who once supervised my undergraduate research at the University of Florida.
+Hello! I'm a third-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also work closely with Professor <a href="https://www.ise.ufl.edu/sun/" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who has supervised my undergraduate research at the University of Florida.
 I obtained my B.E. in Industrial Engineering and Management at the Shanghai Jiao Tong University at 2020.
 </p>
 
 <h2>Research Interests</h2>
 <p>
-My primary research interest is in service operations management.
-My current research focuses on the design and control of service systems under stochastic dynamics and/or model uncertainty.
-I am particularly interested in systems that involves emerging technologies and novel bussiness models, such as drone, crowdsroucing App and on-demand staffing.
-My research utilizes tools from stochastic modeling, optimal control, robust optimization and finds applications in call center operations, drone-delivery system management and emergency medical response.
-</p>
+My primary research interests lie in the design and control of service systems with stochastic dynamics or under uncertainty. I am particularly interested in service systems that involves emerging technologies and novel bussiness models, such as drones, responder crowdsroucing Apps and on-demand workforce.</p>
+
+<p>
+My research utilizes tools from stochastic modeling, diffusion approximation, optimal control and robust optimization with applications in drone-delivery systems, emergency medical response and call centers.</p>
+
 
 <h2>Research Papers</h2>
 <p style="margin-top: 1em;">
@@ -51,8 +51,8 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 <p style="margin-top: 1em;">
 I have been the tutor of the following courses at NUS.
 <ul>
-	<li>IE5005 Data Analytics for Industrial Engineers (Master) -- Fall 2021, Fall 2022</li>
-  <li> IE4213/EE4802 Learning from Data (Undergraduate) -- Fall 2020, Spring 2021, Spring 2022</li>
+	<li>IE5005 Data Analytics for Industrial Engineers (Master, 230+ students) -- Fall 2021, Fall 2022</li>
+  <li> IE4213/EE4802 Learning from Data (Undergraduate, 60+ students) -- Fall 2020, Spring 2021, Spring 2022</li>
 </ul>
 </p>
 
