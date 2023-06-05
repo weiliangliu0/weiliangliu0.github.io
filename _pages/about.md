@@ -30,13 +30,13 @@ redirect_from:
 <!-- <h2>About Me</h2>-->
 
 <p>
-Hello! I'm a third-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also work closely with Professor <a href="https://www.ise.ufl.edu/sun/" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who has supervised my undergraduate research at the University of Florida.
+Hello! I'm a fourth-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also work closely with Professor <a href="https://www.ise.ufl.edu/sun/" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who has supervised my undergraduate research at the University of Florida.
 I obtained my B.E. in Industrial Engineering at the Shanghai Jiao Tong University at 2020.
 </p>
 
 <h2>Research Interests</h2>
 <p>
-My primary research interests lie in the design and control of service systems under stochastic evolution or uncertainty. </p>
+My primary research interests lie in the design and control of service systems under stochastic evolution,uncertainty and imperfect information. </p>
 
 <p>
 I am particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, volunteer crowdsroucing Apps and on-demand workforce.
