@@ -36,15 +36,11 @@ I obtained my B.E. in Industrial Engineering at the Shanghai Jiao Tong Universit
 
 <h2>Research Interests</h2>
 <p>
-My primary research interests lie in the design and control of service systems under stochastic evolution,uncertainty and imperfect information. </p>
+My primary research interests lie in the design and control of service systems under stochastic evolution and imperfect information using tools from stochastic modeling, diffusion approximation, optimal control and robust optimization, with applications in drone delivery, emergency medical response and call center staffing & scheduling.  </p>
 
 <p>
-I am particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, volunteer crowdsroucing Apps and on-demand workforce.
-My research seeks to provide insights into the rich interactions between different entities and between different control levers in these systems.
+I have been particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, volunteer crowdsroucing Apps and on-demand workforce, and I seek to provide insights into the rich interactions between different entities and between different control levers in these systems.
 </p>
-
-<p>
-My research utilizes tools from stochastic modeling, diffusion approximation, optimal control and robust optimization with applications in drone-delivery systems, emergency medical response systems and call centers.</p>
 
 
 <h2>Research Papers</h2>
