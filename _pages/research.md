@@ -12,12 +12,11 @@ author_profile: true
 <body style="font-family: Open Sans; font-style: light; font-size: 12pt;">
 
 
-
 <h2 style="margin-top: 1em;">Completed Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 <li><b>Expanding Service Capabilities Through an On-Demand Workforce</b> <br>
 	Xu Sun, <u>Weiliang Liu</u>.<br>
-	Major revision at <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>]</li>
+	Accepted by <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>]</li>
   <!--  -->
 	<li><b>Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</b> <br>
 	<u>Weiliang Liu</u>, Xu Sun.<br>
