@@ -48,7 +48,7 @@ I have been particularly interested in service systems that involves emerging te
 A list of my research papers <a href="https://weiliangliu-nus.github.io/research/" target="_blank">can be found here.</a>
 </p>-->
 
-<h2 style="margin-top: 1em;">Completed Papers</h2>
+<h2>Completed Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 <li><b>Expanding Service Capabilities Through an On-Demand Workforce</b> <br>
 	Xu Sun, <u>Weiliang Liu</u>.<br>
@@ -71,7 +71,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 	<i>IEEE Transactions on Automation Science and Engineering</i>, 2021, Vol. 19, Issue 4, pp. 3520 - 3535. </li>
 </ol>
 
-<h2>Work in Progress</h2>
+<h2 style="margin-top: 1em;">Work in Progress</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 	<li><b>Optimal Alert of Community Responders</b> <br>
 	In preparation, 2023. </li>
