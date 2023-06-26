@@ -75,7 +75,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 
 <h2 style="margin-top: 1em;">Work in Progress</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
-	<li><b>Efficient Community Responders Crowdsourcing for Time-Sensitive Emergency Response System</b> <br>
+	<li><b>Efficient Community Responder Crowdsourcing for Time-Sensitive Emergency</b> <br>
 	In preparation, 2023. </li>
 </ol>
 
