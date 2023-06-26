@@ -52,7 +52,9 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 <li><b>Expanding Service Capabilities Through an On-Demand Workforce</b> <br>
 	Xu Sun, <u>Weiliang Liu</u>.<br>
-	Accepted by <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>]</li>
+	Accepted by <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>]<br>
+  Scheduled to present at the 2023 INFORMS Annual Meeting
+  </li>
   <!--  -->
 	<li><b>Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</b> <br>
 	<u>Weiliang Liu</u>, Xu Sun.<br>
@@ -73,7 +75,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 
 <h2 style="margin-top: 1em;">Work in Progress</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
-	<li><b>Optimal Alert of Community Responders</b> <br>
+	<li><b>Efficient Community Responders Crowdsourcing for Time-Sensitive Emergency Response System</b> <br>
 	In preparation, 2023. </li>
 </ol>
 
