@@ -91,8 +91,12 @@ I have been the tutor of the following courses at NUS.
 <h2>Selected Awards</h2>
 <p style="margin-top: 1em;">
 <ul>
-	<li>President's Graduate Fellowship [<a href="https://nusgs.nus.edu.sg/scholarships-list/?pgf%22%20\t%20%22_blank" target="_blank">Info</a>]</li>
-  <li> Chinese Government Award for Outstanding Students Abroad [<a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Info</a>]</li>
+	<li>President's Graduate Fellowship [<a href="https://nusgs.nus.edu.sg/scholarships-list/?pgf%22%20\t%20%22_blank" target="_blank">Info</a>]<br>
+	<em>"Awarded to PhD candidates who show exceptional promise or accomplishment in research"</em>
+	</li>
+  <li> Chinese Government Award for Outstanding Students Abroad [<a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Info</a>]<br>
+  <em>"The highest government award granted by the Chinese government to Chinese students overseas"</em>
+  </li>
 </ul>
 </p>
 
