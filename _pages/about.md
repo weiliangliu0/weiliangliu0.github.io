@@ -88,6 +88,13 @@ I have been the tutor of the following courses at NUS.
 </ul>
 </p>
 
+<h2>Selected Awards</h2>
+<p style="margin-top: 1em;">
+<ul>
+	<li>President's Graduate Fellowship</li>
+  <li> Chinese Government Award for Outstanding Students Abroad</li>
+</ul>
+</p>
 
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
