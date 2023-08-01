@@ -63,7 +63,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 	 <!--  -->
 	<li><b>Robust Data-Driven Design of a Smart Cardiac Arrest Response System</b> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye.<br>
-	Under review. [<a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_2023POMS_Presentation.pdf" target="_blank">Presentation at POMS 2023</a>]</li>
+	Under review. [<a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_2023POMS_Presentation.pdf" target="_blank">Presentation at POMS 2023</a>][<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]</li>
   <!--  -->
 	<li><b>Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</b> <br>
 	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye.<br>
