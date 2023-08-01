@@ -53,7 +53,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 <li><b>Expanding Service Capabilities Through an On-Demand Workforce</b> <br>
 	Xu Sun, <u>Weiliang Liu</u>.<br>
-	Accepted by <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>]<br>
+	Forthcoming at <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>] [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
   Scheduled to present at the 2023 INFORMS Annual Meeting
   </li>
   <!--  -->
