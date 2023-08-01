@@ -31,7 +31,8 @@ redirect_from:
 
 <p>
 Hello! I'm a fourth-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also work closely with Professor <a href="https://www.ise.ufl.edu/sun/" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who has supervised my undergraduate research at the University of Florida.
-I obtained my B.E. in Industrial Engineering at the Shanghai Jiao Tong University at 2020.
+I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 255);"> Shanghai Jiao Tong University </a> at 2020.
+
 </p>
 
 <h2>Research Interests</h2>
