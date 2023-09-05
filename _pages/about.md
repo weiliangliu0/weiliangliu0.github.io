@@ -57,35 +57,35 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 </p>-->
 
 <h2>Completed Papers</h2>
-<ol style="margin-top: 0em; margin-bottom: 1.2em;">
-<li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> <br>
+<ol style="margin-top: 0em; margin-bottom: 1.3em;">
+<li><span style="font-size: 13pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> <br>
 	Xu Sun, <u>Weiliang Liu</u><br>
 	<font color="blue">Operations Research, 2023</font> [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>] [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
   <ul><li>Scheduled to present at INFORMS 2023</li></ul>
   </li>
   <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> <br>
+	<li><span style="font-size: 13pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> <br>
 	<u>Weiliang Liu</u>, Xu Sun<br>
 	<font color="blue">Manufacturing and Service Operations Management, 2022</font> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Link</a>]</li>
 	 <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
+	<li><span style="font-size: 13pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye<br>
 	Under Review [<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]<br>
-	<ul><li><font color="red"> Finalist </font>, INFORMS SOLA Best Student Paper Competition, 2023 (Winner TBD)</ul></li>
+	<ul><li><font color="red"> Finalist </font>, INFORMS SOLA Best Student Paper Competition, 2023 (Winner TBD)</li></ul>
 	</li>
   <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
+	<li><span style="font-size: 13pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
 	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye<br>
 	Reject and Resubmit at <font color="blue"> Management Science, 2023</font></li>
   <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
+	<li><span style="font-size: 13pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
 	Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie<br>
 	<font color="blue">IEEE Transactions on Automation Science and Engineering, 2021</font> </li>
 </ol>
 
 <h2 style="margin-top: 1em;">Work in Progress</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
-	<li><span style="font-size: 14pt; font-weight: bold;">Efficient Community Responder Crowdsourcing for Time-Critical Emergencies</span> <br>
+	<li><span style="font-size: 13pt; font-weight: bold;">Efficient Community Responder Crowdsourcing for Time-Critical Emergencies</span> <br>
 	In preparation, 2023. </li>
 </ol>
 
