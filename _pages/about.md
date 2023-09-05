@@ -58,7 +58,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 
 <h2>Completed Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
-<li><b>Expanding Service Capabilities Through an On-Demand Workforce</b> <br>
+<li><span style="font-size: 114pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> <br>
 	Xu Sun, <u>Weiliang Liu</u>.<br>
 	Forthcoming at <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>] [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
   Scheduled to present at INFORMS 2023
@@ -71,7 +71,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 	<li><b>Robust Data-Driven Design of a Smart Cardiac Arrest Response System</b> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye.<br>
 	Under review. [<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]<br>
-	<font color="red"> Finalist </font>, SOLA Best Student Paper Competition, 2023 (Winner TBD at INFORMS 2023)
+	<font color="red"> Finalist </font>, INFORMS SOLA Best Student Paper Competition, 2023 (Winner TBD)
 	</li>
   <!--  -->
 	<li><b>Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</b> <br>
