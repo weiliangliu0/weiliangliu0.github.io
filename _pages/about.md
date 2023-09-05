@@ -49,7 +49,6 @@ I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu
 <p>
 My primary research interests lie in the design, control and learning of service systems under stochasticity and/or imperfect information. 
 I have a particular interest in systems that involve emerging technologies and novel bussiness models. </p>
- 
 <p>
 <b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization<br>
 <b><font color="#556B2F">Applications</font></b>: drone delivery, emergency medical response, call center staffing & scheduling.  
