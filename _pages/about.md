@@ -40,10 +40,10 @@ My primary research interests lie in the design, control and learning of service
 I have a particular interest for systems that involve emerging technologies and novel bussiness models. </p>
 
 <p>
-<span style="font-weight: 1400;">Methodologies</span>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization </p>
+<b>Methodologies</b>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization </p>
 
 <p>
-<span style="font-weight: 1400;">Applications</span>: drone delivery, emergency medical response, call center staffing & scheduling.  
+<b>Applications</b>: drone delivery, emergency medical response, call center staffing & scheduling.  
 </p>
 
 <!--<p>
@@ -58,34 +58,34 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 
 <h2>Completed Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
-<li><span style="font-weight: 1400;">Expanding Service Capabilities Through an On-Demand Workforce</span> <br>
+<li><b>Expanding Service Capabilities Through an On-Demand Workforce</b> <br>
 	Xu Sun, <u>Weiliang Liu</u>.<br>
 	Forthcoming at <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>] [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
   Scheduled to present at INFORMS 2023
   </li>
   <!--  -->
-	<li><span style="font-weight: 1400;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> <br>
+	<li><b>Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</b> <br>
 	<u>Weiliang Liu</u>, Xu Sun.<br>
 	<i>Manufacturing and Service Operations Management</i>, 2022, Vol. 24, No. 3, pp. 1294–1310. [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Link</a>]</li>
 	 <!--  -->
-	<li><span style="font-weight: 1400;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
+	<li><b>Robust Data-Driven Design of a Smart Cardiac Arrest Response System</b> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye.<br>
 	Under review. [<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]<br>
 	<font color="red"> Finalist </font>, SOLA Best Student Paper Competition, 2023 (Winner TBD at INFORMS 2023)
 	</li>
   <!--  -->
-	<li><span style="font-weight: 1400;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
+	<li><b>Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</b> <br>
 	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye.<br>
 	Reject and resubmit at <i>Management Science</i>, 2023.</li>
   <!--  -->
-	<li><span style="font-weight: 1400;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
+	<li><b>Modeling and Optimization for Emergency Medical Services Network</b> <br>
 	Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie.<br>
 	<i>IEEE Transactions on Automation Science and Engineering</i>, 2021, Vol. 19, Issue 4, pp. 3520 - 3535. </li>
 </ol>
 
 <h2 style="margin-top: 1em;">Work in Progress</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
-	<li><span style="font-weight: 1400;">Efficient Community Responder Crowdsourcing for Time-Critical Emergencies</span> <br>
+	<li><b>Efficient Community Responder Crowdsourcing for Time-Critical Emergencies</b> <br>
 	In preparation, 2023. </li>
 </ol>
 
