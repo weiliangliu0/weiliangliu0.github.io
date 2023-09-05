@@ -66,21 +66,21 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
   Scheduled to present at INFORMS 2023
   </li>
   <!--  -->
-	<li><b>Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</b> <br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> <br>
 	<u>Weiliang Liu</u>, Xu Sun.<br>
 	<i>Manufacturing and Service Operations Management</i>, 2022. [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Link</a>]</li>
 	 <!--  -->
-	<li><b>Robust Data-Driven Design of a Smart Cardiac Arrest Response System</b> <br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye.<br>
-	Under review. [<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]<br>
+	Under Review. [<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]<br>
 	<font color="red"> Finalist </font>, INFORMS SOLA Best Student Paper Competition, 2023 (Winner TBD)
 	</li>
   <!--  -->
-	<li><b>Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</b> <br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
 	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye.<br>
 	Reject and resubmit at <i>Management Science</i>, 2023.</li>
   <!--  -->
-	<li><b>Modeling and Optimization for Emergency Medical Services Network</b> <br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
 	Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie.<br>
 	<i>IEEE Transactions on Automation Science and Engineering</i>, 2021. </li>
 </ol>
