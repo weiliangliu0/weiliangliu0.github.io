@@ -76,7 +76,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
   <!--  -->
 	<li><span style="font-size: 13pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> <br>
 	<u>Weiliang Liu</u>, Xu Sun<br>
-	<font color="blue">Manufacturing and Service Operations Management, 2022</font> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Link</a>]</li>
+	<font color="blue">Manufacturing & Service Operations Management, 2022</font> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Link</a>]</li>
 	 <!--  -->
 	<li><span style="font-size: 13pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye<br>
