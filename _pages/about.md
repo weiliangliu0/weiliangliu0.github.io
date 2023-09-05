@@ -47,7 +47,7 @@ I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu
 
 <h2>Research Interests</h2>
 <p>
-My primary research interests lie in the design, control and learning of service systems under stochasticity and imperfect information. 
+My primary research interests lie in the design, control and learning of service systems under stochasticity and/or imperfect information. 
 I have a particular interest in systems that involve emerging technologies and novel bussiness models. </p>
 
 <p>
