@@ -41,15 +41,15 @@ redirect_from:
 <!-- <h2>About Me</h2>-->
 
 <p>
-Hello! I'm a fourth-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 255);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 255)">Zhisheng Ye</a>. I also work closely with Professor <a href="https://www.ise.ufl.edu/sun/" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who has supervised my undergraduate research at the University of Florida.
-I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 255);"> Shanghai Jiao Tong University </a> at 2020.
+Hello! I'm a fourth-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 0);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 0)">Zhisheng Ye</a>. I also work closely with Professor <a href="https://www.ise.ufl.edu/sun/" target="_blank" style="color: rgb(0, 0, 255);">Xu Sun</a>, who has supervised my undergraduate research at the University of Florida.
+I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
 </p>
 
 <h2>Research Interests</h2>
 <p>
 My primary research interests lie in the design, control and learning of service systems under stochasticity and/or imperfect information. 
 I have a particular interest in systems that involve emerging technologies and novel bussiness models. </p>
-
+ 
 <p>
 <font color="#556B2F">Methodologies</font>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization<br>
 <font color="#556B2F">Applications</font>: drone delivery, emergency medical response, call center staffing & scheduling.  
