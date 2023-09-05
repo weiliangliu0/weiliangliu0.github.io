@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---  
 
+<head>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-</style>
+</style></head>
+
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: normal; font-size: 12pt;">
 <!-- <body> -->
