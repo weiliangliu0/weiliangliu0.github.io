@@ -40,9 +40,11 @@ My primary research interests lie in the design, control and learning of service
 I have a particular interest for systems that involve emerging technologies and novel bussiness models. </p>
 
 <p>
-<span style="font-weight: 1400;">Methodologies</span>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization <br> 
+<span style="font-weight: 1400;">Methodologies</span>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization </p>
 
-<span style="font-weight: 1400;">Applications</span>: drone delivery, emergency medical response, call center staffing & scheduling.  </p>
+<p>
+<span style="font-weight: 1400;">Applications</span>: drone delivery, emergency medical response, call center staffing & scheduling.  
+</p>
 
 <!--<p>
 I have been particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, volunteer crowdsroucing Apps and on-demand workforce, and I seek to provide insights into the rich interactions between different entities and between different control levers in these systems.
@@ -59,7 +61,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 <li><span style="font-weight: 1400;">Expanding Service Capabilities Through an On-Demand Workforce</span> <br>
 	Xu Sun, <u>Weiliang Liu</u>.<br>
 	Forthcoming at <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>] [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
-  Scheduled to present at the INFORMS 2023
+  Scheduled to present at INFORMS 2023
   </li>
   <!--  -->
 	<li><span style="font-weight: 1400;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> <br>
