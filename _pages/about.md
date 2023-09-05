@@ -42,7 +42,7 @@ My primary research interests lie in the design, control and learning of service
 I have a particular interest in systems that involve emerging technologies and novel bussiness models. </p>
 
 <p>
-<font color="blue">Methodologies</font>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization 
+<font color="blue">Methodologies</font>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization<br>
 <font color="blue">Applications</font>: drone delivery, emergency medical response, call center staffing & scheduling.  
 </p>
 
@@ -59,28 +59,28 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 <h2>Completed Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 <li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> <br>
-	Xu Sun, <u>Weiliang Liu</u>.<br>
-	Forthcoming at <i>Operations Research</i>, 2023. [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>] [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
+	Xu Sun, <u>Weiliang Liu</u><br>
+	<font color="blue">Operations Research, 2023</font> [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>] [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
   Scheduled to present at INFORMS 2023
   </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> <br>
-	<u>Weiliang Liu</u>, Xu Sun.<br>
-	<i>Manufacturing and Service Operations Management</i>, 2022. [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Link</a>]</li>
+	<u>Weiliang Liu</u>, Xu Sun<br>
+	<font color="blue">Manufacturing and Service Operations Management, 2022</font> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Link</a>]</li>
 	 <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
-	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye.<br>
-	Under Review. [<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]<br>
+	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye<br>
+	Under Review [<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]<br>
 	<font color="red"> Finalist </font>, INFORMS SOLA Best Student Paper Competition, 2023 (Winner TBD)
 	</li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
-	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye.<br>
-	Reject and resubmit at <i>Management Science</i>, 2023.</li>
+	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye<br>
+	Reject and Resubmit at <font color="blue"> Management Science, 2023</font></li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
-	Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie.<br>
-	<i>IEEE Transactions on Automation Science and Engineering</i>, 2021. </li>
+	Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie<br>
+	<font color="blue">IEEE Transactions on Automation Science and Engineering, 2021</font> </li>
 </ol>
 
 <h2 style="margin-top: 1em;">Work in Progress</h2>
