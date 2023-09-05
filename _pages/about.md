@@ -71,7 +71,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 	Finalist, INFORMS SOLA Best Student Paper Competition, 2023 (Winner TBD at INFORMS 2023)
 	</li>
   <!--  -->
-	<li><b>Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</b> <br>
+	<li><p style="font-size: 1.5em;"><b>Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</b></p> <br>
 	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye.<br>
 	Reject and resubmit at <i>Management Science</i>, 2023.</li>
   <!--  -->
