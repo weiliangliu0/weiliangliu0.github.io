@@ -14,8 +14,8 @@ redirect_from:
 </style>
 <style>
 .circle {
-      width: 100px;
-      height: 100px;
+      width: 10px;
+      height: 10px;
       background-color: #000;
       border-radius: 50%;
     }
@@ -71,7 +71,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 <li><span style="font-size: 13pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> <br>
 	Xu Sun, <u>Weiliang Liu</u><br>
 	<font color="blue">Operations Research, 2023</font> [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>] [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
-  <div class="circle"></div> Scheduled to present at INFORMS 2023
+  <div class="circle"> Scheduled to present at INFORMS 2023</div>
   </li>
   <!--  -->
 	<li><span style="font-size: 13pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> <br>
@@ -81,7 +81,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 	<li><span style="font-size: 13pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye<br>
 	Under Review [<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]<br>
-	<div class="circle"></div> <font color="red"> Finalist </font>, INFORMS SOLA Best Student Paper Competition, 2023 (Winner TBD)
+	<div class="circle"> <font color="red"> Finalist </font>, INFORMS SOLA Best Student Paper Award, 2023 (Winner TBD)</div>
 	</li>
   <!--  -->
 	<li><span style="font-size: 13pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
