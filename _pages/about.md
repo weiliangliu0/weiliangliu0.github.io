@@ -51,8 +51,8 @@ My primary research interests lie in the design, control and learning of service
 I have a particular interest in systems that involve emerging technologies and novel bussiness models. </p>
  
 <p>
-<font color="#556B2F">Methodologies</font>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization<br>
-<font color="#556B2F">Applications</font>: drone delivery, emergency medical response, call center staffing & scheduling.  
+<b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion approximation, optimal control, dynamic programming, robust optimization<br>
+<b><font color="#556B2F">Applications</font></b>: drone delivery, emergency medical response, call center staffing & scheduling.  
 </p>
 
 <!--<p>
