@@ -79,8 +79,8 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 	 <!--  -->
 	<li><span style="font-size: 13pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye<br>
-	Under Review [<a href="http://weiliangliu-nus.github.io/files/Robust Data-Driven Design of a Smart Cardiac Arrest Response System.pdf" target="_blank">PDF</a>]<br>
-	<font color="red"> Finalist </font>, INFORMS SOLA Best Student Paper Award, 2023 (Winner TBD)
+	Under Review [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">Link</a>]<br>
+	<font color="red"> First Place </font>, INFORMS SOLA Best Student Paper Award, 2023
 	</li>
   <!--  -->
 	<li><span style="font-size: 13pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
@@ -95,7 +95,8 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 <h2 style="margin-top: 1em;">Work in Progress</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.2em;">
 	<li><span style="font-size: 13pt; font-weight: bold;">Efficient Community Responder Crowdsourcing for Time-Critical Emergencies</span> <br>
-	In preparation, 2023. </li>
+	In preparation with Timothy C. Y. Chan et al, 2023
+	 </li>
 </ol>
 
 <h2>Teaching</h2>
@@ -110,6 +111,11 @@ I have been the tutor of the following courses at NUS.
 <h2>Selected Awards</h2>
 <p style="margin-top: 1em;">
 <ul>
+<li>First Place, INFORMS 2023 SOLA Best Student Paper Award [<a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Section-on-Location-Analysis/Best-Student-Paper-Award" target="_blank">Info</a>]<br>
+<em>
+"Given biennially for student papers judged to be the best in the broad field of facility location"
+</em>
+	</li>
 	<li>President's Graduate Fellowship [<a href="https://nusgs.nus.edu.sg/scholarships-list/?pgf%22%20\t%20%22_blank" target="_blank">Info</a>]<br>
 	<em>"Awarded to PhD candidates who show exceptional promise or accomplishment in research"</em>
 	</li>
