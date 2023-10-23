@@ -98,15 +98,6 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 	 </li>
 </ol>
 
-<h2>Teaching</h2>
-<p style="margin-top: 1em;">
-I have been the tutor of the following courses at NUS.
-<ul>
-	<li>IE5005 Data Analytics for Industrial Engineers (Master, 230+ students) -- Fall 2021, Fall 2022</li>
-  <li> IE4213/EE4802 Learning from Data (Undergraduate, 60+ students) -- Spring 2021, Spring 2022, Spring 2023</li>
-</ul>
-</p>
-
 <h2>Selected Awards</h2>
 <p style="margin-top: 1em;">
 <ul>
@@ -123,6 +114,27 @@ I have been the tutor of the following courses at NUS.
   </li>
 </ul>
 </p>
+
+
+<h2>Conference Presentations</h2>
+<p style="margin-top: 1em;">
+<ul>
+	<li>INFORMS 2023 Annual Meeting, Phonix, USA -- October 2023</li>
+	<li> CSAMSE 2023 Annual Meeting (Session Chair), Shenzhen, China -- July 2023</li>
+	<li> POMS 2023 Annual Meeting, Orlando, USA -- May 2023</li>
+</ul>
+</p>
+
+<h2>Teaching</h2>
+<p style="margin-top: 1em;">
+I have been the tutor of the following courses at NUS.
+<ul>
+	<li>IE5005 Data Analytics for Industrial Engineers (Master, 230+ students) -- Fall 2021, Fall 2022</li>
+  <li> IE4213/EE4802 Learning from Data (Undergraduate, 60+ students) -- Spring 2021, Spring 2022, Spring 2023</li>
+</ul>
+</p>
+
+
 
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
