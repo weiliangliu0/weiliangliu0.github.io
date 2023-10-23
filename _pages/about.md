@@ -70,7 +70,6 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 <li><span style="font-size: 13pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> <br>
 	Xu Sun, <u>Weiliang Liu</u><br>
 	<font color="blue">Operations Research, 2023</font> [<a href="http://weiliangliu-nus.github.io/files/Expanding_Service_Capabilities_Through_an_On_Demand_Workforce.pdf" target="_blank">PDF</a>] [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
-   Scheduled to present at INFORMS 2023
   </li>
   <!--  -->
 	<li><span style="font-size: 13pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> <br>
