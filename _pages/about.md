@@ -51,7 +51,7 @@ My primary research interests lie in the design, control and learning of service
 I have a particular interest in modern service systems that involve emerging technologies and novel bussiness models. </p>
 <p>
 <b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, optimal control, dynamic programming, robust optimization<br>
-<b><font color="#556B2F">Applications</font></b>: modern service systems operations (e.g., drone delivery & on-demand staffing), emergency response for social good (e.g., cardiac arrest response optimization), control and learning of queuing systems
+<b><font color="#556B2F">Applications</font></b>: modern service systems operations, emergency response for social good, control and learning of queuing systems
 </p>
 
 <!--<p>
