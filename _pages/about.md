@@ -51,8 +51,8 @@ I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu
 <li>I am interested in developing theory at the intersection of stochastic control and data-driven decision making, with the goal of providing provably good decisions under imperfect information.</li>
 </ul>
 <p>
-<b><font color="#556B2F">Applications</font></b>: smart emergency service operation, drone delivery operation, community responder crowdsourcing, on-demand workforce management
-<b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion analysis, optimal control, robust optimization, dynamic programs<br>
+<b><font color="#556B2F">Applications</font></b>: smart emergency service operation, drone delivery operation, community responder crowdsourcing, on-demand workforce management<br>
+<b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion analysis, optimal control, robust optimization, dynamic programs
 </p>
 
 <!--<p>
