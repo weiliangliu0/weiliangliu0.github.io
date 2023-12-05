@@ -51,7 +51,7 @@ I take a problem-oriented approach to solving optimal design and control problem
 I am also keen on developing theories and methods that link stochastic modeling with data-driven and distribution-free decision making.
 </p>
 <p>
-<b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion analysis, optimal control, robust optimization<br>
+<b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion analysis, optimal control, robust optimization, dynamic programs<br>
 <b><font color="#556B2F">Applications</font></b>: smart emergency service operation, drone delivery operation, voluntary and on-demand workforce management
 </p>
 
