@@ -54,7 +54,7 @@ I am also keen on developing methods that combine stochastic modeling with data-
 </p>
 <p>
 <b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion analysis, optimal control, robust optimization<br>
-<b><font color="#556B2F">Applications</font></b>: emergency response optimization, drone delivery operation, on-demand workforce management
+<b><font color="#556B2F">Applications</font></b>: emergency response, community responder crowdsourcing, drone delivery operation, on-demand workforce management
 </p>
 
 <!--<p>
