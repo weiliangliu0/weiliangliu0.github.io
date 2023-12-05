@@ -47,8 +47,8 @@ I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu
 
 <h2>Research Interests</h2>
 <ul>
-<li>I take a problem-oriented approach to solving optimal design and control problems for modern service systems that involve emerging technologies and novel operational models, such as drone delivery, community responder crowdsourcing and on-demand workforce.</li>
-<li>I am also keen on developing theories and methods that link stochastic modeling with data-driven and distribution-free decision making, with the aim of offering provably good decisions in the presence of limited distrbution information.</li>
+<li>I take a problem-driven approach to solving optimal design and control problems in modern service systems that involve emerging technologies and novel operational models, such as drone delivery, community responder crowdsourcing and on-demand workforce.</li>
+<li>I am interested in developing theory at the intersection of stochastic modeling and distribution-free decision making, with the goal of providing provably good decisions with limited and/or imperfect distrbution information.</li>
 </ul>
 <p>
 <b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion analysis, optimal control, robust optimization, dynamic programs<br>
