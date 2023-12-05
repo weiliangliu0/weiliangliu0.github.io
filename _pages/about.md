@@ -78,7 +78,7 @@ A list of my research papers <a href="https://weiliangliu-nus.github.io/research
 	 <!--  -->
 	<li><span style="font-size: 13pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
 	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye<br>
-	Under Review [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">Link</a>]<br>
+	Major Revision at <font color="blue"> Production & Operations Management[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">Link</a>]<br>
 	<font color="red"> First Place </font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
 	</li>
   <!--  -->
