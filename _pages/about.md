@@ -47,8 +47,10 @@ I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu
 
 <h2>Research Interests</h2>
 <p>
-I take a problem-oriented approach to provide insights and actionable strategies for the optimal design and control of modern service systems involving emerging technologies and novel operational models. 
-I am also interested in advancing methodologies that are at the intersection of stochastic modeling and data-driven decision making.
+I take a problem-oriented approach to provide insights and actionable strategies for the optimal design and control of modern service systems involving emerging technologies and novel operational models.</p>
+
+<p>
+I am also interested in advancing methodologies that lie at the intersection of stochastic modeling and data-driven decision making.
 </p>
 <p>
 <b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion analysis, optimal control, robust optimization<br>
