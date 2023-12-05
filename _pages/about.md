@@ -47,12 +47,12 @@ I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu
 
 <h2>Research Interests</h2>
 <ul>
-<li>I take a problem-driven approach to address optimal design and control challenges in modern service systems that involve emerging technologies and novel operational models, such as drone delivery, community responder crowdsourcing, and on-demand workforce.</li>
+<li>I take a problem-driven approach to address complex design and control challenges of modern service systems that involve emerging technologies and novel operational models.</li>
 <li>I am interested in developing theory at the intersection of stochastic control and data-driven decision making, with the goal of providing provably good decisions under imperfect information.</li>
 </ul>
 <p>
+<b><font color="#556B2F">Applications</font></b>: smart emergency service operation, drone delivery operation, community responder crowdsourcing, on-demand workforce management
 <b><font color="#556B2F">Methodologies</font></b>: stochastic modeling, diffusion analysis, optimal control, robust optimization, dynamic programs<br>
-<b><font color="#556B2F">Applications</font></b>: smart emergency service operation, drone delivery operation, voluntary and on-demand workforce management
 </p>
 
 <!--<p>
