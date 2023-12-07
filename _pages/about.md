@@ -47,7 +47,7 @@ I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu
 
 <h2>Research Interests</h2>
 <ul>
-<li>I take a problem-driven approach to solve complex design and control challenges of modern service systems that involve emerging technologies and novel operational models.</li>
+<li>I take a problem-driven approach to address complex design and control challenges of modern service systems that involve emerging technologies and novel operational models.</li>
 <li>I am interested in developing theory at the intersection of stochastic control and data-driven decision making, with the goal of providing provably good decisions under imperfect information.</li>
 </ul>
 <p>
