@@ -45,6 +45,11 @@ Hello! I'm a fourth-year Ph.D. candidate at the National University of Singapore
 I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
 </p>
 
+<ul>
+<li>I will be a postdoctoral principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" style="color: rgb(0, 0, 0);"> University of Chicago Booth School of Business </a> starting Fall 2024, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" style="color: rgb(0, 0, 0);"> Amy R. Ward </a>.
+</li>
+</ul>
+
 <h2>Research Interests</h2>
 <ul>
 <li>I take a problem-driven approach to address complex design and control challenges of modern service systems that involve emerging technologies and novel operational models.</li>
