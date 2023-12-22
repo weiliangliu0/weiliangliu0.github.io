@@ -46,7 +46,7 @@ I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu
 </p>
 
 <ul>
-<li>I will join the <a href="https://www.chicagobooth.edu/" target="_blank" style="color: rgb(0, 0, 0);"> University of Chicago Booth School of Business </a> as a postdoctoral principal researcher at Fall 2024, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" style="color: rgb(0, 0, 0);"> Amy R. Ward. </a>
+<li>I will join the <a href="https://www.chicagobooth.edu/" target="_blank" style="color: rgb(0, 0, 0);"> University of Chicago Booth School of Business </a> as a postdoctoral principal researcher at Summer 2024, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" style="color: rgb(0, 0, 0);"> Amy R. Ward. </a>
 </li>
 </ul>
 
