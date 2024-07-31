@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -34,21 +34,26 @@ redirect_from:
   Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>-->
 
-<p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">Download My CV Here.</a>
+<p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">My CV is Here.</a>
 </p>
 
 
 <!-- <h2>About Me</h2>-->
 
 <p>
-Hello! I'm a final-year Ph.D. candidate at the National University of Singapore (NUS), advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 0);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 0)">Zhisheng Ye</a>. I also work closely with Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank" style="color: rgb(0, 0, 0);">Xu Sun</a>, who has supervised my undergraduate research at the University of Florida.
-I obtained my B.E. in Industrial Engineering at the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
+Hello! I am a postdoctoral principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" style="color: rgb(0, 0, 0);"> University of Chicago Booth School of Business </a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" style="color: rgb(0, 0, 0);"> Amy  Ward. </a>
+I am expected to obtain my Ph.D. this Fall at the National University of Singapore, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 0);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 0)">Zhisheng Ye</a>. 
+I was fortunate to visit Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank" style="color: rgb(0, 0, 0);">Xu Sun</a> in the summer of 2019 at the University of Florida, and
+Professor <a href="https://chan.mie.utoronto.ca/" target="_blank" style="color: rgb(0, 0, 0);">Timothy Chan</a> at the University of Toronto in the Fall of 2023.
+Previsouly, I obtained a B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
 </p>
 
+<!--  
 <ul>
 <li>I will join the <a href="https://www.chicagobooth.edu/" target="_blank" style="color: rgb(0, 0, 0);"> University of Chicago Booth School of Business </a> as a postdoctoral principal researcher at Summer 2024, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" style="color: rgb(0, 0, 0);"> Amy R. Ward. </a>
 </li>
 </ul>
+-->
 
 <h2>Research Interests</h2>
 <ul>
