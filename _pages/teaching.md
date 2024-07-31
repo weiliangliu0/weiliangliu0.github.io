@@ -16,6 +16,6 @@ I have been the tutor of the following courses at National University of Singapo
 	<li>IE5005 Data Analytics for Industrial Engineers (Master, 230+ students) -- Fall 2021, Fall 2022</li>
   <li> IE4213/EE4802 Learning from Data (Undergraduate, 60+ students) -- Spring 2021, Spring 2022, Spring 2023</li>
 </ul>
-</p>
+
 
 </body>
