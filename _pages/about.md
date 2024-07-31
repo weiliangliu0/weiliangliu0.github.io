@@ -47,7 +47,7 @@ I am expected to obtain my Ph.D. this Fall at the National University of Singapo
 <p>
 I was fortunate to visit Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank" style="color: rgb(0, 0, 0);">Xu Sun</a> in the Summer of 2019 at UF, and
 Professor <a href="https://chan.mie.utoronto.ca/" target="_blank" style="color: rgb(0, 0, 0);">Timothy Chan</a> in the Fall of 2023 at UofT.
-Previsouly, I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
+I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
 </p>
 
 <!--  
@@ -63,7 +63,7 @@ I am also interested in theories that integrate queuing control and data-driven 
 
 <p>
 <b><font color="#556B2F">Methods</font></b>: stochastic modeling and control, distributionally robust optimization, dynamic programing<br>
-<b><font color="#556B2F">Applications</font></b>: emergency medical response for cardiac arrest, volunteer crowdsourcing, drone delivery operation, on-demand workforce management, online matching
+<b><font color="#556B2F">Applications</font></b>: emergency medical response for cardiac arrest, drone delivery operation, on-demand workforce management, online matching
 </p>
 
 <!--<p>
