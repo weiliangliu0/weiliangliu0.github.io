@@ -57,12 +57,12 @@ Previsouly, I obtained a B.E. in Industrial Engineering from the <a href="https:
 
 <h2>Research Interests</h2>
 <ul>
-<li>I take a problem-driven approach to address complex design and control challenges of modern service systems that involve emerging technologies and novel operational models.</li>
-<li>I am interested in developing theory at the intersection of stochastic control and data-driven decision making, with the goal of providing provably good decisions under imperfect information.</li>
+<li>I take a problem-driven approach to address complex design and control challenges of modern service systems across public and private sectors, with an emphasis on emergency medical response.</li>
+<li>I also work at the intersection of queuing control and data-driven decision making, aiming to develop provably good policies under unknown model primitives.</li>
 </ul>
 <p>
-<b><font color="#556B2F">Methods</font></b>: stochastic modeling and control, diffusion analysis, robust optimization, dynamic programing<br>
-<b><font color="#556B2F">Applications</font></b>: smart emergency service operation, drone delivery operation, community responder crowdsourcing, on-demand workforce management
+<b><font color="#556B2F">Methods</font></b>: stochastic modeling and control, distributionally robust optimization, dynamic programing<br>
+<b><font color="#556B2F">Applications</font></b>: emergency medical response for cardiac arrest, volunteer crowdsourcing, drone delivery operation, on-demand workforce management, online matching
 </p>
 
 <!--<p>
