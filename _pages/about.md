@@ -71,25 +71,6 @@ I have been particularly interested in service systems that involves emerging te
 </p>-->
 
 
-<h2>Preprints</h2>
-<ol style="margin-top: 0em; margin-bottom: 1.4em;">
- <!--  -->
-	<li><span style="font-size: 13pt; font-weight: bold;">Community Responder Crowdsroucing for Time-Sensitive Medical Emergencies</span> <br>
-	<u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye<br>
-	Under Review [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">Link</a>]<br>
-	</li>
-	 <!--  -->
-	<li><span style="font-size: 13pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
-	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye<br>
-	Major Revision at <font color="blue"> Production & Operations Management</font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">Link</a>]<br>
-	<font color="red"> First Place </font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
-	</li>
-  <!--  -->
-	<li><span style="font-size: 13pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
-	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye<br>
-	Reject and Resubmit at <font color="blue"> Management Science</font></li>
-</ol>
-
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.4em;">
 <!--  -->
@@ -105,6 +86,28 @@ I have been particularly interested in service systems that involves emerging te
 	<li><span style="font-size: 13pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
 	Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie<br>
 	<font color="blue">IEEE Transactions on Automation Science and Engineering, 2021</font> </li>
+</ol>
+
+<h2>Working Papers</h2>
+<ol style="margin-top: 0em; margin-bottom: 1.4em;">
+<li><span style="font-size: 13pt; font-weight: bold;">Matching Impatient and Heterogeneous Demand and Supply while Learning</span> <br>
+with Amy Ward and Xun Zhang<br>
+	</li>
+ <!--  -->
+	<li><span style="font-size: 13pt; font-weight: bold;">Community Responder Crowdsroucing for Time-Sensitive Medical Emergencies</span> <br>
+	<u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye<br>
+	Under Review [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">Link</a>]<br>
+	</li>
+	 <!--  -->
+	<li><span style="font-size: 13pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> <br>
+	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye<br>
+	Major Revision at <font color="blue"> Production & Operations Management</font> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">Link</a>]<br>
+	<font color="red"> First Place </font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
+	</li>
+  <!--  -->
+	<li><span style="font-size: 13pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
+	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye<br>
+	Reject and Resubmit at <font color="blue"> Management Science</font></li>
 </ol>
 
  <!--  
