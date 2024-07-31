@@ -43,8 +43,8 @@ redirect_from:
 <p>
 Hello! I am a postdoctoral principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" style="color: rgb(0, 0, 0);"> University of Chicago Booth School of Business </a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" style="color: rgb(0, 0, 0);"> Amy  Ward</a>.
 I am expected to obtain my Ph.D. this Fall at the National University of Singapore, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 0);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 0)">Zhisheng Ye</a>. 
-I was fortunate to visit Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank" style="color: rgb(0, 0, 0);">Xu Sun</a> in the Summer of 2019 at the University of Florida, and
-Professor <a href="https://chan.mie.utoronto.ca/" target="_blank" style="color: rgb(0, 0, 0);">Timothy Chan</a> at the University of Toronto in the Fall of 2023.
+I was fortunate to visit Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank" style="color: rgb(0, 0, 0);">Xu Sun</a> in the Summer of 2019 at UF, and
+Professor <a href="https://chan.mie.utoronto.ca/" target="_blank" style="color: rgb(0, 0, 0);">Timothy Chan</a> in the Fall of 2023 at UofT.
 Previsouly, I obtained a B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
 </p>
 
