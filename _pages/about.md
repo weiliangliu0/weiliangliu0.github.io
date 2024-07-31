@@ -47,7 +47,7 @@ Professor <a href="https://chan.mie.utoronto.ca/" target="_blank" style="color: 
 I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
 </p>
 
-<p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">My CV can be downloaded Here.</a>
+<p>  My <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">CV</a> can be downloaded Here.
 </p>
 
 <!--  
