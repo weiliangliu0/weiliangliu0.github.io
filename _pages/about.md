@@ -107,7 +107,8 @@ with Amy Ward and Xun Zhang<br>
   <!--  -->
 	<li><span style="font-size: 13pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> <br>
 	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye<br>
-	Reject and Resubmit at <font color="blue"> Management Science</font></li>
+	Reject and Resubmit at <font color="blue"> Management Science</font> [<a href="mailto:weiliangliu@uchicago.edu" target="_blank">Request</a>]<br>
+	</li>
 </ol>
 
  <!--  
