@@ -111,13 +111,12 @@ with Amy Ward and Xun Zhang<br>
 	</li>
 </ol>
 
- <!--  
-<h2 style="margin-top: 1em;">Work in Progress</h2>
-<ol style="margin-top: 0em; margin-bottom: 1.2em;">
-	<li><span style="font-size: 13pt; font-weight: bold;">Efficient Community Responder Crowdsourcing for Time-Critical Emergencies</span> <br>
-	In preparation with Timothy C. Y. Chan et al, 2023
-	 </li>
-</ol>-->
+<h2>Contact</h2>
+<p style="margin-top: 1em;">
+The University of Chicago Booth of Bussiness <br>
+5807 S Woodlawn Ave, Chicago, IL 60637, USA  <br>
+Email: weiliangliu[at]uchicago[dot]edu <br>
+</p>
 
 <h2>Selected Awards</h2>
 <p style="margin-top: 1em;">
@@ -159,10 +158,5 @@ I have been the tutor of the following courses at National University of Singapo
 
 
 
-<h2>Contact</h2>
-<p style="margin-top: 1em;">
-The University of Chicago Booth of Bussiness <br>
-5807 S Woodlawn Ave, Chicago, IL 60637, USA  <br>
-Email: weiliangliu[at]uchicago[dot]edu <br>
-</p>
+
 </body>
