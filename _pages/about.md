@@ -98,7 +98,7 @@ I have been particularly interested in service systems that involves emerging te
 </ul>
 </p>
 
-
+<!--
 <h2>Conferences Attended</h2>
 <p style="margin-top: 1em;">
 <ul>
@@ -109,6 +109,7 @@ I have been particularly interested in service systems that involves emerging te
 	<li> POMS 2023 Annual Meeting, Orlando, USA -- May 2023</li>
 </ul>
 </p>
+-->
 
 
 
