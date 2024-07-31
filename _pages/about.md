@@ -34,9 +34,6 @@ redirect_from:
   Email: weiliangliu[at]u[dot]nus.edu <br>
 </p>-->
 
-<p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">My CV is Here.</a>
-</p>
-
 
 <!-- <h2>About Me</h2>-->
 
@@ -48,6 +45,9 @@ I am expected to obtain my Ph.D. this Fall at the National University of Singapo
 I was fortunate to visit Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank" style="color: rgb(0, 0, 0);">Xu Sun</a> in the Summer of 2019 at UF, and
 Professor <a href="https://chan.mie.utoronto.ca/" target="_blank" style="color: rgb(0, 0, 0);">Timothy Chan</a> in the Fall of 2023 at UofT.
 I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
+</p>
+
+<p>  <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">My CV can be downloaded Here.</a>
 </p>
 
 <!--  
