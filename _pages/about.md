@@ -57,11 +57,9 @@ Previsouly, I obtained my B.E. in Industrial Engineering from the <a href="https
 -->
 
 <h2>Research Interests</h2>
-<!-- <ul> 
-<li>-->
 I take a problem-driven approach to tackle complex design and control challenges in modern service systems across both public and private sectors.
 I am also interested in theories that integrate queuing control and data-driven decision-making.
-</ul>
+
 <p>
 <b><font color="#556B2F">Methods</font></b>: stochastic modeling and control, distributionally robust optimization, dynamic programing<br>
 <b><font color="#556B2F">Applications</font></b>: emergency medical response for cardiac arrest, volunteer crowdsourcing, drone delivery operation, on-demand workforce management, online matching
