@@ -12,9 +12,7 @@ author_profile: true
 <body style="font-family: Open Sans; font-style: light; font-size: 12pt;">
 
 <p>
-I enjoy playing ultimate frisbee. I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/?igsh=NjZ1MjIya2szYWU4" target="_blank">2022 Freakshow Work & Play Hat</a> and our team won a Bronze medal. 
-
-
+I enjoy playing ultimate frisbee. I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/?igsh=NjZ1MjIya2szYWU4" target="_blank">2022 Freakshow Work & Play Hat</a> and our team won a Bronze medal. The following picture was taken at the <a href="https://www.instagram.com/p/Cq_-1eBBWZv/?igsh=eHF3eW4yanZvcXRk" target="_blank">2023 Gold & Bold Hat</a>, in which I was playing as a handler.
 </p>
 
 </body>
