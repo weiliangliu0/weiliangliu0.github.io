@@ -17,7 +17,7 @@ redirect_from:
       width: 10px;
       height: 10px;
       background-color: #000;
-      border-radius: 80%;
+      border-radius: 100%;
     }
 </style>
 </head>
