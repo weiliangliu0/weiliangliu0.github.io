@@ -19,6 +19,10 @@ redirect_from:
       background-color: #000;
       border-radius: 100%;
     }
+p.adjust-line-length {
+    max-width: 80%; /* Adjust based on the percentage of the container */
+    word-wrap: break-word;
+}
 </style>
 </head>
 

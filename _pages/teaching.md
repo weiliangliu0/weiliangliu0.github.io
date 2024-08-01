@@ -9,7 +9,7 @@ author_profile: true
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 </style>
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
-<body style="font-family: Open Sans; font-style: light; font-size: 12pt;">
+<body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
 I served as the lead tutor of the following courses at the National University of Singapore for their inaugural offering, where I was responsible for delivering weekly tutorials and designing most of the tutorial materials: 
 <ul>
