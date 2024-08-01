@@ -15,12 +15,12 @@ author_profile: true
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.4em;">
 <!--  -->
-<li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
+<li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Paper</a>]<br>
 	<span style="font-size: 12pt;">Xu Sun, <u>Weiliang Liu</u></span> <br>
 	<font color="blue">Operations Research, 2023</font> <br>
   </li>
   <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Link</a>] <br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Paper</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Xu Sun</span><br>
 	<font color="blue">Manufacturing & Service Operations Management, 2022</font> </li>
   <!--  -->
@@ -35,12 +35,12 @@ author_profile: true
 <span style="font-size: 12pt;">In Preparation with Amy Ward and Xun Zhang</span><br>
 	</li>
  <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsroucing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">Link</a>] <br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsroucing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
 	Under Review<br>
 	</li>
 	 <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">Link</a>]<br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>]<br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="blue"> Production & Operations Management</font> <br>
 	<font color="red"> First Place </font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
