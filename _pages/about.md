@@ -58,7 +58,7 @@ I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.e
 
 
 <h2>Research Interests</h2>
-<p> I am interested in developing solutions for real-world design and operational challenges of modern service systems, with an emphasis on novel operational concepts.
+<p> I take a problem-driven approach to develop solutions for real-world design and operational challenges of modern service systems, with an emphasis on novel operational concepts.
 </p>
 
 <p>
