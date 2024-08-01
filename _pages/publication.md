@@ -32,7 +32,7 @@ author_profile: true
 <h2>Working Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.4em;">
 <li><span style="font-size: 14pt; font-weight: bold;">Matching Impatient and Heterogeneous Demand and Supply while Learning</span> <br>
-In Preparation with Amy Ward and Xun Zhang<br>
+<span style="font-size: 12pt;">In Preparation with Amy Ward and Xun Zhang</span><br>
 	</li>
  <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsroucing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">Link</a>] <br>
