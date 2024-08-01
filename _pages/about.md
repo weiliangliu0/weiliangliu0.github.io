@@ -41,7 +41,7 @@ redirect_from:
 
 <!-- <h2>About Me</h2>-->
 
-<p> 
+<p class="adjust-line-length"> 
 Hello! I am a postdoctoral principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
 I am expected to obtain my Ph.D. this Fall at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a>, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
 </p>
