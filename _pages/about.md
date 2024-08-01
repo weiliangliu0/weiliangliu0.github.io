@@ -20,7 +20,7 @@ redirect_from:
       border-radius: 100%;
     }
     p.adjust-line-length {
-      max-width: 160%; /* Adjust based on the percentage of the container */
+      max-width: 240%; /* Adjust based on the percentage of the container */
       word-wrap: break-word;
     }
   </style>
