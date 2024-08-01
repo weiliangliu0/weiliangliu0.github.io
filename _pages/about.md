@@ -62,7 +62,7 @@ I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.e
 </p>
 
 <p>
-I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where unknown primitives of queuing systems must be learned from data.</p>
+I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where unknown queuing primitives must be learned from data.</p>
 
 <p>
 <b><font color="#556B2F">Applications</font></b>: Cardiac arrest emergency response, drone delivery operation, voluntary/on-demand workforce management, online matching<br>
