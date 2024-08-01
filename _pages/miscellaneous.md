@@ -21,7 +21,7 @@ I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/?igsh=NjZ1MjI
 <img src="http://weiliangliu-nus.github.io/images/handler.jpg" alt="Playing as a Handler" style="width:100%;max-width:600px;">
 
 <p style="margin-top: 1em;">
-I was a coach for <a href="https://www.instagram.com/novae_ultimatefrisbee_sg?igsh=MTljMGVsM2ljbTRlNA==" target="_blank">Novae</a>, an amateur frisbee team of over 30 players that Jianfeng and I co-founded. We organized weekly training sessions and competitions.
+I was a coach for <a href="https://www.instagram.com/novae_ultimatefrisbee_sg?igsh=MTljMGVsM2ljbTRlNA==" target="_blank">Novae</a>, an amateur ultimate frisbee team of over 30 players that Jianfeng and I co-founded. We organized weekly training sessions and competitions.
 </p>
 
 </body>
