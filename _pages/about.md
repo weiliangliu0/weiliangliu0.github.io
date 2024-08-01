@@ -58,15 +58,15 @@ I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.e
 
 
 <h2>Research Interests</h2>
-<p> I am interested in developing solutions for real-world design and operational challenges in modern service systems across both public and private sectors.
+<p> I am interested in developing solutions for real-world design and operational challenges of modern service systems, with an emphasis on novel operational concepts.
 </p>
 
 <p>
 I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where unknown queuing primitives need to be learned from data.</p>
 
 <p>
-<b><font color="#556B2F">Applications</font></b>: Cardiac arrest emergency response, drone delivery operation, voluntary/on-demand workforce management, online matching<br>
-<b><font color="#556B2F">Methods</font></b>: stochastic modeling and control, Brownian/fluid approximation, robust optimization, dynamic programs
+<span style="font-weight: bold;"><font color="#556B2F">Applications</font></span>: Cardiac arrest emergency response, drone delivery operation, voluntary/on-demand workforce management, online matching<br>
+<span style="font-weight: bold;"><font color="#556B2F">Methods</font></span>: stochastic modeling and control, Brownian/fluid approximation, robust optimization, dynamic programs
 </p>
 
 <!--<p>
