@@ -58,7 +58,7 @@ I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.e
 
 
 <h2>Research Interests</h2>
-<p>My research interests lie in developing solutions to complex design and operational challenges in modern service systems across public and private sectors.
+<p>I am interested in developing solutions for complex design and operational challenges in modern service systems, both public and private sectors. 
 </p>
 
 <p>
