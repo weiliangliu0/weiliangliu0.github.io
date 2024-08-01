@@ -58,7 +58,7 @@ I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.e
 I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where unknown primitives of queuing systems must be learned from data.</p>
 
 <p>
-<b><font color="#556B2F">Applications</font></b>: emergency medical response for cardiac arrest, drone delivery operation, voluntary and on-demand workforce management, online matching<br>
+<b><font color="#556B2F">Applications</font></b>: Cardiac arrest emergency response, drone delivery operation, voluntary and on-demand workforce management, online matching<br>
 <b><font color="#556B2F">Methods</font></b>: stochastic modeling and control, Brownian and fluid approximation, distributionally robust optimization, dynamic programs
 </p>
 
