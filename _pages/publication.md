@@ -36,18 +36,18 @@ In Preparation with Amy Ward and Xun Zhang<br>
 	</li>
  <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsroucing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">Link</a>] <br>
-	<u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye<br>
+	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
 	Under Review<br>
 	</li>
 	 <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">Link</a>]<br>
-	<u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye<br>
+	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="blue"> Production & Operations Management</font> <br>
 	<font color="red"> First Place </font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
 	</li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> [<a href="mailto:weiliangliu@uchicago.edu" target="_blank">Upon Request</a>] <br>
-	Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye<br>
+	<span style="font-size: 12pt;">Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
 	Reject and Resubmit at <font color="blue"> Management Science</font> <br>
 	</li>
 </ol>
