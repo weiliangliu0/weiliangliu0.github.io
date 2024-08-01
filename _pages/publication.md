@@ -16,16 +16,16 @@ author_profile: true
 <ol style="margin-top: 0em; margin-bottom: 1.4em;">
 <!--  -->
 <li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Link</a>]<br>
-	Xu Sun, <u>Weiliang Liu</u><br>
+	<span style="font-size: 12pt;">Xu Sun, <u>Weiliang Liu</u></span> <br>
 	<font color="blue">Operations Research, 2023</font> <br>
   </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Link</a>] <br>
-	<u>Weiliang Liu</u>, Xu Sun<br>
+	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Xu Sun</span><br>
 	<font color="blue">Manufacturing & Service Operations Management, 2022</font> </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
-	Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie<br>
+	<span style="font-size: 12pt;">Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie</span><br>
 	<font color="blue">IEEE Trans. on Automation Science and Engineering, 2021</font> </li>
 </ol>
 
