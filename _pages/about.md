@@ -9,21 +9,21 @@ redirect_from:
 ---  
 
 <head>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-</style>
-<style>
-.circle {
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+    .circle {
       width: 10px;
       height: 10px;
       background-color: #000;
       border-radius: 100%;
     }
-p.adjust-line-length {
-    max-width: 80%; /* Adjust based on the percentage of the container */
-    word-wrap: break-word;
-}
-</style>
+    p.adjust-line-length {
+      max-width: 80%; /* Adjust based on the percentage of the container */
+      word-wrap: break-word;
+    }
+  </style>
 </head>
 
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
