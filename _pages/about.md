@@ -54,8 +54,8 @@ I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.e
 
 
 <h2>Research Interests</h2>
-<p>I develop solutions to complex design and operational challenges in modern service systems across both public and private sectors.
-I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where the primitives of queuing systems are unknown and must be learned from data.</p>
+<p>I am interested in developing solutions to complex design and operational challenges in modern service systems across both public and private sectors.
+I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where unknown primitives of queuing systems must be learned from data.</p>
 
 <p>
 <b><font color="#556B2F">Applications</font></b>: emergency medical response for cardiac arrest, drone delivery operation, voluntary and on-demand workforce management, online matching<br>
