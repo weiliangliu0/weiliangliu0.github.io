@@ -23,7 +23,7 @@ redirect_from:
 </head>
 
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
-<body style="font-family: Open Sans; font-style: normal; font-size: 12pt;">
+<body style="font-family: Open Sans; font-style: normal; font-size: 14pt;">
 <!-- <body> -->
 
 <!-- <h2 style="margin-top: 1em;">Info</h2>  
