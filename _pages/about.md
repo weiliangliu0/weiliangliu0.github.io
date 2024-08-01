@@ -38,14 +38,14 @@ redirect_from:
 <!-- <h2>About Me</h2>-->
 
 <p> 
-Hello! I am a postdoctoral principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" style="color: rgb(0, 0, 0);"> University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" style="color: rgb(0, 0, 0);"> Amy  Ward</a>.  
-I am expected to obtain my Ph.D. this Fall at the <a href="https://nus.edu.sg/" target="_blank" style="color: rgb(0, 0, 0);"> National University of Singapore</a>, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank" style="color: rgb(0, 0, 0);">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank" style="color: rgb(0, 0, 0)">Zhisheng Ye</a>. 
+Hello! I am a postdoctoral principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
+I am expected to obtain my Ph.D. this Fall at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a>, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
 </p>
 
 <p>
-I was fortunate to visit Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank" style="color: rgb(0, 0, 0);">Xu Sun</a> in the Summer of 2019 at UF, and
-Professor <a href="https://chan.mie.utoronto.ca/" target="_blank" style="color: rgb(0, 0, 0);">Timothy Chan</a> in the Fall of 2023 at UofT.
-I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank" style="color: rgb(0, 0, 0);"> Shanghai Jiao Tong University </a> at 2020.
+I was fortunate to visit Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank">Xu Sun</a> in the Summer of 2019 at UF, and
+Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> in the Fall of 2023 at UofT.
+I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University </a> at 2020.
 </p>
 
 <p>  My <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">CV</a> can be downloaded Here.
