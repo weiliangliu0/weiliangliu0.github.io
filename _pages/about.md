@@ -79,7 +79,7 @@ I have been particularly interested in service systems that involves emerging te
 <ul>
 <li>The University of Chicago Booth of Bussiness <br>
 5807 S Woodlawn Ave, Chicago, IL 60637, USA  </li>
-<li>Email: weiliangliu[at]uchicago[dot]edu </li>
+<li>Email: weiliang[dot]liu[at]chicagobooth[dot]edu </li>
 </ul>
 </p>
 
