@@ -51,19 +51,14 @@ I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.e
 <p>  My <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">CV</a> can be downloaded Here.
 </p>
 
-<!--  
-<ul>
-<li>I will join the <a href="https://www.chicagobooth.edu/" target="_blank" style="color: rgb(0, 0, 0);"> University of Chicago Booth School of Business </a> as a postdoctoral principal researcher at Summer 2024, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" style="color: rgb(0, 0, 0);"> Amy R. Ward. </a>
-</li>
-</ul>
--->
+
 
 <h2>Research Interests</h2>
-<p>I take a problem-driven approach to tackle complex design and control challenges in modern service systems across both public and private sectors.
-I am also interested in theories that integrate queuing control and data-driven decision-making.</p>
+<p>I develop solutions to complex design and operational challenges in modern service systems across both public and private sectors.
+I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where the primitives of queuing systems are unknown and must be learned from data.</p>
 
 <p>
-<b><font color="#556B2F">Applications</font></b>: emergency medical response for cardiac arrest, drone delivery operation, on-demand workforce management, online matching<br>
+<b><font color="#556B2F">Applications</font></b>: emergency medical response for cardiac arrest, drone delivery operation, voluntary and on-demand workforce management, online matching<br>
 <b><font color="#556B2F">Methods</font></b>: stochastic modeling and control, Brownian and fluid approximation, distributionally robust optimization, dynamic programs
 </p>
 
