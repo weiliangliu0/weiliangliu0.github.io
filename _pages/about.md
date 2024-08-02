@@ -58,7 +58,7 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 
 
 <h2>Research Interests</h2>
-<p> I take a problem-driven approach to tackle emerging design and operational challenges in modern service systems, with an emphasis on novel operational concepts.
+<p> I take a problem-driven approach to address emerging design and operational challenges in modern service systems, with an emphasis on novel operational concepts.
 </p>
 
 <p>
