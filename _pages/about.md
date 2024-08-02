@@ -49,7 +49,7 @@ I am expected to obtain my Ph.D. this Fall at the <a href="https://nus.edu.sg/" 
 <p>
 I was fortunate to visit Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank">Xu Sun</a> in the Summer of 2019 at UF, and
 Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> in the Fall of 2023 at UofT.
-I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University </a> at 2020.
+In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University </a>.
 </p>
 
 <p>  My <a href="http://weiliangliu-nus.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">CV</a> can be downloaded Here.
@@ -58,7 +58,7 @@ I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.e
 
 
 <h2>Research Interests</h2>
-<p> I take a problem-driven approach to develop solutions for real-world design and operational challenges of modern service systems, with an emphasis on novel operational concepts.
+<p> I take a problem-driven approach to tackle emerging design and operational challenges in modern service systems, with an emphasis on novel operational concepts.
 </p>
 
 <p>
