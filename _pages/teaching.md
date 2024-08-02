@@ -11,7 +11,7 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
-I served as the lead tutor of the following courses at the National University of Singapore for their inaugural offering, during which I delivered weekly tutorials and designed most of the tutorial materials: 
+I served as the lead tutor of the following courses at the National University of Singapore and designed most of the tutorial materials for their inaugural offering: 
 <ul>
 	<li>IE5005 Data Analytics for Industrial Engineers (Master, 230+ students) -- Fall 2021, Fall 2022</li>
   <li> IE4213/EE4802 Learning from Data (Undergraduate, 60+ students) -- Spring 2021, Spring 2022, Spring 2023</li>
