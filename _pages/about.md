@@ -78,8 +78,7 @@ I have been particularly interested in service systems that involves emerging te
 <p style="margin-top: 1em;">
 <ul>
 <li>Email: Weiliang[dot]Liu[at]ChicagoBooth[dot]edu </li>
-<li>McGiffert House <br>
-5751 S Woodlawn Ave  <br>
+<li>McGiffert House, 5751 S Woodlawn Ave  <br>
 Chicago, IL 60637, United States  </li>
 </ul>
 </p>
