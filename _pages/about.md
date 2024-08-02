@@ -77,8 +77,9 @@ I have been particularly interested in service systems that involves emerging te
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
 <ul>
-<li>The University of Chicago Booth of Bussiness <br>
-5807 S Woodlawn Ave, Chicago, IL 60637, USA  </li>
+<li>McGiffert House <br>
+5751 S Woodlawn Ave  <br>
+Chicago, IL 60637, United States  </li>
 <li>Email: weiliang[dot]liu[at]chicagobooth[dot]edu </li>
 </ul>
 </p>
