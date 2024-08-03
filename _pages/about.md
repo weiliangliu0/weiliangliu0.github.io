@@ -66,7 +66,7 @@ I am also interested in developing theories at the interface of queuing control 
 
 <p>
 <span style="font-weight: bold;"><font color="#556B2F">Applications</font></span>: Cardiac arrest emergency response, drone delivery operation, voluntary/on-demand workforce management, online matching<br>
-<span style="font-weight: bold;"><font color="#556B2F">Methods</font></span>: stochastic modeling and control, Brownian/fluid approximation, robust optimization, dynamic programs
+<span style="font-weight: bold;"><font color="#556B2F">Methods</font></span>: stochastic modeling and control, robust optimization, dynamic programs
 </p>
 
 <!--<p>
