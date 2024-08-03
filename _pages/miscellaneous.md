@@ -22,7 +22,7 @@ I coached <a href="https://www.instagram.com/novae_ultimatefrisbee_sg?igsh=MTljM
 I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/?igsh=NjZ1MjIya2szYWU4" target="_blank">2022 Freakshow Work & Play Hat</a> and won a bronze medal. Below is a photo of me playing as a <a href="https://www.theuap.com/ultimate-frisbee-positions-which-one-is-best-for-you" target="_blank">Handler</a> at the <a href="https://www.instagram.com/p/Cq_-1eBBWZv/?igsh=eHF3eW4yanZvcXRk" target="_blank">2023 Singapore Gold & Bold Hat</a>:
 </p>
 
-<img src="http://weiliangliu-nus.github.io/images/handler.jpg" alt="Playing as a Handler" style="width:100%;max-width:600px;">
+<img src="http://weiliangliu0.github.io/images/handler.jpg" alt="Playing as a Handler" style="width:100%;max-width:600px;">
 
 
 </body>
