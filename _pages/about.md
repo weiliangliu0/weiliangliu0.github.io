@@ -62,7 +62,7 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 </p>
 
 <p>
-I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where unknown queuing primitives need to be learned from data.</p>
+I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where unknown queuing primitives must be learned from data.</p>
 
 <p>
 <span style="font-weight: bold;"><font color="#556B2F">Applications</font></span>: Cardiac arrest emergency response, drone delivery operation, voluntary/on-demand workforce management, online matching<br>
@@ -86,7 +86,7 @@ Chicago, IL 60637, United States  </li>
 <h2>Selected Awards</h2>
 <p style="margin-top: 1em;">
 <ul>
-<li>First Place, 2023 INFORMS Society on Location Analysis Best Student Paper Award [<a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Section-on-Location-Analysis/Best-Student-Paper-Award" target="_blank">Info</a>]<br>
+<li>First Place, 2023 INFORMS SOLA Best Student Paper Award [<a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Section-on-Location-Analysis/Best-Student-Paper-Award" target="_blank">Info</a>]<br>
 <!-- <em>
 "Given biennially for student papers judged to be the best in the broad field of facility location"
 </em>-->
