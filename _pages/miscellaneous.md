@@ -12,10 +12,10 @@ author_profile: true
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
 <p>
-I enjoy playing <a href="https://en.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">Ultimate Frisbee</a>.</p> 
+I enjoy playing <a href="https://en.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">Ultimate Frisbee</a>!</p> 
 
 <p style="margin-top: 1em;">
-I coached <a href="https://www.instagram.com/novae_ultimatefrisbee_sg?igsh=MTljMGVsM2ljbTRlNA==" target="_blank">Novae</a>, an amateur ultimate frisbee team of over 30 players, which Jianfeng and I co-founded in 2022. We organized weekly training sessions and competitions.
+I coached <a href="https://www.instagram.com/novae_ultimatefrisbee_sg?igsh=MTljMGVsM2ljbTRlNA==" target="_blank">Novae</a>, a Singapore-based amateur ultimate frisbee team of over 30 players, which Jianfeng and I co-founded in 2022. We organized weekly training sessions and competitions.
 </p>
 
 <p>
