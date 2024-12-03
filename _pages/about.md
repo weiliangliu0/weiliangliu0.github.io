@@ -58,7 +58,7 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 </p>
 
 <p> 
-I am also passionate about advancing theories at the intersection of queuing control and data-driven decision-making, where model primitives must be inferred from data.</p>
+I am also passionate about advancing theories at the intersection of queuing control and data-driven decision-making, where unknown model primitives must be inferred from data.</p>
 
 <!--
 <p>
