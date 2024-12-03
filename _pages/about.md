@@ -55,9 +55,6 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 
 <h2>Research Interests</h2>
 <p> My research combines stochastic modeling and control, optimization, data analytics, and statistics to tackle emerging challenges in modern service operations. Applications include medical emergency response, drone delivery, on-demand staffing, and two-sided matching systems, with a focus on generating actionable insights and practical impact.
-</p>
-
-<p>
 I am also passionate about advancing theories at the intersection of queuing control and data-driven decision-making, where key queuing primitives must be inferred from data.</p>
 
 <!--
