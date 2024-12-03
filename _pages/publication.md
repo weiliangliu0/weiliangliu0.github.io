@@ -33,7 +33,7 @@ author_profile: true
 <ol style="margin-top: 0em; margin-bottom: 1.4em;">
  <!--  -->
  	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> <br>
-<span style="font-size: 12pt;">In Preparation with Amy Ward and Xun Zhang</span><br>
+<span style="font-size: 12pt;">In Preparation with Xun Zhang and Amy Ward</span><br>
 	</li>
  <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
