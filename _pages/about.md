@@ -44,11 +44,7 @@ redirect_from:
 <p class="adjust-line-length"> 
 Hello! I am a principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
 I expect to receive my Ph.D. in January 2025 at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a>, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
-</p>
-
-<p>
 I was fortunate to visit Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> in the Fall of 2023 at UofT, and Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank">Xu Sun</a> in the Summer of 2019 at UF.
-
 In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University </a>.
 </p>
 
