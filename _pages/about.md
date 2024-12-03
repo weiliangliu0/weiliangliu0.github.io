@@ -42,13 +42,13 @@ redirect_from:
 <!-- <h2>About Me</h2>-->
 
 <p class="adjust-line-length"> 
-Hello! I am a postdoctoral principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
-I am expected to obtain my Ph.D. this Fall at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a>, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
+Hello! I am a principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
+I expect to receive my Ph.D. in January 2025 at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a>, advised by Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
 </p>
 
 <p>
-I was fortunate to visit Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank">Xu Sun</a> in the Summer of 2019 at UF, and
-Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> in the Fall of 2023 at UofT.
+I was fortunate to visit Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> in the Fall of 2023 at UofT, and Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank">Xu Sun</a> in the Summer of 2019 at UF.
+
 In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University </a>.
 </p>
 
@@ -58,16 +58,18 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 
 
 <h2>Research Interests</h2>
-<p> I take a problem-oriented approach to address emerging design and operational challenges in modern service systems, with an emphasis on novel operational concepts.
+<p> My research integrates stochastic modeling/control, optimization, data analytics and statistics to address emerging challenges in modern service operations, with applications in medical emergency response, drone delivery, on-demand staffing, and two-sided matching systems.
 </p>
 
 <p>
 I am also interested in developing theories at the interface of queuing control and data-driven decision-making, where unknown queuing primitives must be learned from data.</p>
 
+<!--
 <p>
 <span style="font-weight: bold;"><font color="#556B2F">Applications</font></span>: Cardiac arrest emergency response, drone delivery operation, voluntary/on-demand workforce management, online matching<br>
 <span style="font-weight: bold;"><font color="#556B2F">Methods</font></span>: stochastic modeling and control, robust optimization, dynamic programs
 </p>
+</p>-->
 
 <!--<p>
 I have been particularly interested in service systems that involves emerging technologies and novel bussiness models such as drones, volunteer crowdsroucing Apps and on-demand workforce, and I seek to provide insights into the rich interactions between different entities and between different control levers in these systems.
