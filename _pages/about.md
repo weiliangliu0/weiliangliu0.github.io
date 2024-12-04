@@ -54,7 +54,7 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 
 
 <h2>Research Interests</h2>
-<p> My research combines stochastic modeling, optimization, data analytics and statistics to address emerging challenges in modern service operations, focusing on generating actionable insights and practical impact, with applications in medical emergency response, drone delivery, on-demand staffing, and online matching platforms.
+<p> My research combines stochastic modeling, optimization, data analytics and statistics to address emerging challenges in modern service operations, focusing on briding theory with practice to generatactionable insights, with applications spanning public and private sectors including medical emergency response, drone delivery, on-demand staffing, and online matching platforms.
 </p>
 
 <p> 
