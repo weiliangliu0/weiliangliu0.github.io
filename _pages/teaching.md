@@ -14,7 +14,7 @@ author_profile: true
 <h3>The University of Chicago Booth School of Business</h3>
 Scheduled:
 <ul>
-	<li>Bus 40110: Managing Service Operation --- Winter 2022</li>
+	<li>Bus 40110: Managing Service Operation (MBA) --- Winter 2022</li>
 </ul>
 
 <h3>National University of Singapore</h3>
