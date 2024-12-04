@@ -11,6 +11,12 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
+<h3>The University of Chicago Booth School of Business</h3>
+Scheduled:
+<ul>
+	<li>Bus 40110: Managing Service Operation --- Winter 2022</li>
+</ul>
+
 <h3>National University of Singapore</h3>
 I served as the lead tutor and principal designer of tutorial materials for the inaugural offerings of the following courses:
 <ul>
