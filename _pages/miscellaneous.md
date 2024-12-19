@@ -12,7 +12,7 @@ author_profile: true
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
 <p>
-I enjoy playing <a href="https://en.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">Ultimate Frisbee</a> and am currently a member of <a href="https://fissionultimate.weebly.com/community.html" target="_blank">HedonismBots</a>, the developmental division of UChicago's highest level open Ultimate team.</p> 
+I enjoy playing <a href="https://en.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">Ultimate Frisbee</a>! I am currently a member of <a href="https://fissionultimate.weebly.com/community.html" target="_blank">HedonismBots</a>, the developmental division of UChicago's highest level open Ultimate team.</p> 
 
 
 
