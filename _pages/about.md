@@ -63,7 +63,7 @@ My research tackles complex challenges in <span style="font-weight: bold;"><font
 </p>
 
 <p> 
-I am also passionate about advancing theories in <span style="font-weight: bold;"><font color="#9932CC">data-driven queuing control</font></span>, focusing on using queuing asymptotics to solve difficult learning problems ([4]).</p>
+I am also passionate about advancing theories in <span style="font-weight: bold;"><font color="#9932CC">data-driven queuing control</font></span>, focusing on using queuing asymptotics to solve difficult learning problems [4].</p>
 
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 0.8em;">
