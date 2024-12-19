@@ -87,7 +87,8 @@ I am also passionate about advancing theories at the intersection of <span style
 <ol style="margin-top: 0em; margin-bottom: 1.4em;" start="4">
  <!--  -->
  	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> <br>
-In Preparation with Amy Ward and Xun Zhang for <font color="blue"> Mathematics of Operations Research</font>
+  	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
+In Preparation for <font color="blue"> Mathematics of Operations Research</font>
 	</li>
  <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
