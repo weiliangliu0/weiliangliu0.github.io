@@ -57,8 +57,8 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 <p> 
 My research tackles complex challenges in <span style="font-weight: bold;"><font color="#9932CC">modern service operations</font></span> and <span style="font-weight: bold;"><font color="#9932CC">socially responsible operations</font></span>: 
 <ul>
-<li><b><span style="font-weight: bold;"><font color="#9932CC">Modern service operations</font></span>:</b> Improving efficiency in service environments featured by innovative business models, technologies, and policies, including managing on-demand workforces ([1]), optimizing drone delivery systems ([2]), and matching demand with supply on online platforms ([4]).</li>
-<li><b><span style="font-weight: bold;"><font color="#9932CC">Socially responsible operations</font></span>:</b> Enhancing service systems to meet societal needs and create public impact, such as crowdsourcing community volunteers during emergencies ([5]), designing ambulance-drone networks for cardiac arrest response ([6]), and refining rescue team deployment for lift-trap incidents ([7]).</li>
+<li><b><span style="font-weight: bold;"><font color="#9932CC">Modern service operations</font></span> ([1,2,4,5,6])</b>: Improving efficiency in service environments featured by innovative business models, technologies, and policies, including managing on-demand workforces ([1]), optimizing drone delivery systems ([2]), and matching demand with supply on online platforms ([4]).</li>
+<li><b><span style="font-weight: bold;"><font color="#9932CC">Socially responsible operations</font></span>([3,5,6,7])</b>: Enhancing service systems to meet societal needs and create public impact, such as crowdsourcing community volunteers during emergencies ([5]), designing ambulance-drone networks for cardiac arrest response ([6]), and refining rescue team deployment for lift-trap incidents ([7]).</li>
 </ul>
 Leveraging tools from stochastic modeling, optimization, data analytics, and statistics, I aim to bridge theory and practice to develop efficient solution methodologies and generate actionable insights. 
 </p>
