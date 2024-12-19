@@ -71,20 +71,20 @@ I am also passionate about advancing theories at the intersection of <span style
 <!--  -->
 <li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Paper</a>]<br>
 	<span style="font-size: 12pt;">Xu Sun, <u>Weiliang Liu</u></span> <br>
-	<font color="blue">Operations Research, 2023</font> <br>
+	<font color="blue">Operations Research</font> <br>
   </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Paper</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Xu Sun</span><br>
-	<font color="blue">Manufacturing & Service Operations Management, 2022</font> </li>
+	<font color="blue">Manufacturing & Service Operations Management</font> </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
 	<span style="font-size: 12pt;">Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie</span><br>
-	<font color="blue">IEEE Trans. on Automation Science and Engineering, 2021</font> </li>
+	<font color="blue">IEEE Trans. on Automation Science and Engineering</font> </li>
 </ol>
 
 <h2>Working Papers</h2>
-<ol style="margin-top: 0em; margin-bottom: 1.4em;">
+<ol style="margin-top: 0em; margin-bottom: 1.4em;" start="4">
  <!--  -->
  	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> <br>
 <span style="font-size: 12pt;">In Preparation with Xun Zhang and Amy Ward</span><br>
