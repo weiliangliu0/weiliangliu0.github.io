@@ -55,11 +55,16 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 
 <h2>Research Interests</h2>
 <p> 
-My research focuses on addressing emerging challenges in modern service operations and socially responsible operations. Leveraging tools from stochastic modeling, optimization, data analytics, and statistics, I bridge theory and practice to develop efficient solution methodologies and generate actionable insights. My work spans applications in both the public and private sectors, including emergency medical response, drone delivery systems, on-demand staffing, and online matching platforms.
+My research tackles complex challenges in <font color="#556B2F">modern service operations</font> and <font color="#556B2F">socially responsible operations</font>: 
+<ul>
+<li><b>Modern service operations:</b> Enhancing efficiency in service environments driven by innovative business models, technologies, and policies, such as optimizing drone delivery systems, managing on-demand workforces, and matching demand with supply on online platforms.</li>
+<li><b>Socially responsible operations:</b> Advancing service systems that address societal needs with public impact, including  designing ambulance-drone networks for cardiac arrest response, crowdsourcing community volunteers for emergencies, and improving rescue team placement for lift-trap incidents.</li>
+</ul>
+Leveraging tools from stochastic modeling, optimization, data analytics, and statistics, I aim to bridge theory and practice to develop efficient solution methodologies and generate actionable insights. 
 </p>
 
 <p> 
-I am also passionate about advancing theories at the intersection of queuing control and data-driven decision-making, where unknown primitives must be inferred from data.</p>
+I am also passionate about advancing theories at the intersection of <font color="#556B2F">queuing control</font> and <font color="#556B2F">data-driven decision-making</font>, where unknown primitives must be inferred from data.</p>
 
 <!--
 <p>
