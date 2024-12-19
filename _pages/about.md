@@ -66,6 +66,48 @@ Leveraging tools from stochastic modeling, optimization, data analytics, and sta
 <p> 
 I am also passionate about advancing theories at the intersection of <span style="font-weight: bold;"><font color="#9932CC">queuing control</font></span> and <span style="font-weight: bold;"><font color="#9932CC">data-driven decision-making</font></span>, where unknown primitives must be inferred from data.</p>
 
+<h2>Journal Publications</h2>
+<ol style="margin-top: 0em; margin-bottom: 0.8em;">
+<!--  -->
+<li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Paper</a>]<br>
+	<span style="font-size: 12pt;">Xu Sun, <u>Weiliang Liu</u></span> <br>
+	<font color="blue">Operations Research, 2023</font> <br>
+  </li>
+  <!--  -->
+	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Paper</a>] <br>
+	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Xu Sun</span><br>
+	<font color="blue">Manufacturing & Service Operations Management, 2022</font> </li>
+  <!--  -->
+	<li><span style="font-size: 14pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
+	<span style="font-size: 12pt;">Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie</span><br>
+	<font color="blue">IEEE Trans. on Automation Science and Engineering, 2021</font> </li>
+</ol>
+
+<h2>Working Papers</h2>
+<ol style="margin-top: 0em; margin-bottom: 1.4em;">
+ <!--  -->
+ 	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> <br>
+<span style="font-size: 12pt;">In Preparation with Xun Zhang and Amy Ward</span><br>
+	</li>
+ <!--  -->
+	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
+	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
+	Major Revision at <font color="blue"> Management Science</font><br>
+	</li>
+	 <!--  -->
+	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>]<br>
+	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye</span><br>
+	Major Revision at <font color="blue"> Production & Operations Management</font> <br>
+	<font color="red"> First Place </font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
+	</li>
+  <!--  -->
+	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> [<a href="mailto:weiliang.liu@chicagobooth.edu" target="_blank">Upon Request</a>] <br>
+	<span style="font-size: 12pt;">Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
+	<!--Reject and Resubmit at <font color="blue"> Management Science</font> <br>-->
+	</li>
+	<!--  -->
+</ol>
+
 <!--
 <p>
 <span style="font-weight: bold;"><font color="#556B2F">Applications</font></span>: Cardiac arrest emergency response, drone delivery operation, voluntary/on-demand workforce management, online matching<br>
