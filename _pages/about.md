@@ -64,7 +64,7 @@ Leveraging tools from stochastic modeling, optimization, data analytics, and sta
 </p>
 
 <p> 
-I am passionate about advancing theories at the intersection of <span style="font-weight: bold;"><font color="#9932CC">queuing control</font></span> and <span style="font-weight: bold;"><font color="#9932CC">data-driven decision-making</font></span>, where unknown primitives must be inferred from data ([4]).</p>
+I am also passionate about advancing theories in <span style="font-weight: bold;"><font color="#9932CC">data-driven queuing control</font></span>, focusing on using queuing asymptotics to solve difficult learning problems ([4]).</p>
 
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 0.8em;">
