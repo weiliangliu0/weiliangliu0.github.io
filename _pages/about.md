@@ -57,8 +57,8 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 <p> 
 My research tackles complex challenges in <font color="#556B2F">modern service operations</font> and <font color="#556B2F">socially responsible operations</font>: 
 <ul>
-<li><b>Modern service operations:</b> Enhancing efficiency in service environments driven by innovative business models, technologies, and policies, such as optimizing drone delivery systems, managing on-demand workforces, and matching demand with supply on online platforms.</li>
-<li><b>Socially responsible operations:</b> Advancing service systems that address societal needs with public impact, including  designing ambulance-drone networks for cardiac arrest response, crowdsourcing community volunteers for emergencies, and improving rescue team placement for lift-trap incidents.</li>
+<li><b>Modern service operations:</b> Improving efficiency in service environments featured by innovative business models, technologies, and policies, including optimizing drone delivery systems, managing on-demand workforces, and matching demand with supply on online platforms.</li>
+<li><b>Socially responsible operations:</b> Enhancing service systems to meet societal needs and create public impact, such as designing ambulance-drone networks for cardiac arrest response, crowdsourcing community volunteers during emergencies, and refining rescue team deployment for lift-trap incidents.</li>
 </ul>
 Leveraging tools from stochastic modeling, optimization, data analytics, and statistics, I aim to bridge theory and practice to develop efficient solution methodologies and generate actionable insights. 
 </p>
