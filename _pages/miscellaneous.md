@@ -21,7 +21,7 @@ In 2022, Jianfeng and I co-founded <a href="https://www.instagram.com/novae_ulti
 </p>
 
 <p>
-I was also part of the "UChicago Ocean Sunfish" team that won the 2024 Windy City Cup North American Ultimate Frisbee Championship.
+I was also part of the "UChicago Ocean Sunfish" team that won the 2024 Windy City Cup Ultimate Frisbee Championship.
 In addition, I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/?igsh=NjZ1MjIya2szYWU4" target="_blank">2022 Freakshow Work & Play Hat</a> and won a bronze medal. Below is a photo of me playing as a <a href="https://www.theuap.com/ultimate-frisbee-positions-which-one-is-best-for-you" target="_blank">Handler</a> at the <a href="https://www.instagram.com/p/Cq_-1eBBWZv/?igsh=eHF3eW4yanZvcXRk" target="_blank">2023 Singapore Gold & Bold Hat</a>:
 </p>
 
