@@ -35,6 +35,9 @@ In addition, I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/
 I love playing <a href="https://ac.dragonest.com/en/gameIntroduction" target="_blank">Auto Chess</a>, a game that masterfully blends strategy and a touch of luck! 
 In each match, eight players draft lineups from a shared pool of chess pieces, carefully managing limited resources to create the best possible synergies.
 Players face off in pairs over multiple rounds, with the ultimate goal of being the last one standing. 
+</p>
+
+<p>
 I’m proud of my average rank of 2.9 among 8 players, with a solid 32% of my games finishing in first place. My best achievement so far is reaching the Queen rank, the highest tier in the game’s ranking system. Below is a screenshot capturing the thrilling final showdown between the last two players, with six others already eliminated.
 </p>
 
