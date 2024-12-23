@@ -63,7 +63,7 @@ My research tackles complex challenges in <span style="font-weight: bold;"><font
 </p>
 
 <p> 
-I am also passionatly pursuing a theory-centered research agenda in <span style="font-weight: bold;"><font color="#9932CC">data-driven queuing control</font></span>, which integrates queuing control and statistical learning. My work focuses on leveraging queueing asymptotics to develop data-driven policies that are provably ``optimal'' for queuing systems with unknown primitives [4].</p>
+I am also passionatly pursuing a theory-centered research agenda in <span style="font-weight: bold;"><font color="#9932CC">data-driven queuing control</font></span>, which integrates queuing control and statistical learning. My work focuses on leveraging queueing asymptotics to develop data-driven policies that are provably "optimal" for queuing systems with unknown primitives [4].</p>
 
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 0.8em;">
