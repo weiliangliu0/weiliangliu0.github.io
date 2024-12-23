@@ -55,7 +55,7 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 
 <h2>Research Interests</h2>
 <p> 
-My research tackles complex challenges in <span style="font-weight: bold;"><font color="#9932CC">modern service operations</font></span> and <span style="font-weight: bold;"><font color="#9932CC">socially responsible operations</font></span>. Using tools from stochastic models, optimization, queuing control, and statistics, my work bridges theory and practice to develop efficient solution methods and deliver actionable insights. Below is a roadmap of my work in this area: 
+My research tackles complex challenges in <span style="font-weight: bold;"><font color="#9932CC">modern service operations</font></span> and <span style="font-weight: bold;"><font color="#9932CC">socially responsible operations</font></span>. Using tools from stochastic process, optimization, queuing control, and data analytics, my work bridges theory and practice to develop efficient solution methods and deliver actionable insights. As a roadmap of my work in this area: 
 <ul>
 <li><b><span style="font-weight: bold;"><font color="#9932CC">Modern service operations</font></span> [1,2,4,5,6]</b>: Improving efficiency in service environments featured by innovative business models, technologies and initiatives, including managing on-demand workforces [1], controlling drone delivery systems [2], and matching demand with supply on online platforms [4].</li>
 <li><b><span style="font-weight: bold;"><font color="#9932CC">Socially responsible operations</font></span> [3,5,6,7]</b>: Enhancing service systems to meet societal needs and create public impact, such as crowdsourcing community volunteers during emergencies [5], designing ambulance-drone networks for cardiac arrest response [6], and deploying rescue teams for lift-trap incidents [7].</li>
@@ -93,6 +93,7 @@ In Preparation for <font color="blue"> Mathematics of Operations Research</font>
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="blue"> Management Science</font><br>
+	<font color="red"> Finalist </font>, POMS-HK Best Student Paper Award, 2025 (Winner TBD)
 	</li>
 	 <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>]<br>
