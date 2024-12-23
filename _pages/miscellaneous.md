@@ -41,7 +41,7 @@ Players face off in pairs over multiple rounds, with the ultimate goal of being 
 </p>
 
 <p>
-I’m proud of my average rank of 2.9 among 8 players, with a solid 32% of my games finishing in first place. My best achievement so far is reaching the Queen rank, the highest tier in the game’s ranking system. Below is a screenshot capturing the thrilling final showdown between the last two players, with six others already eliminated.
+I’m proud of my average rank of 2.9 among 8 players, with a solid 32% of my games finishing in first place. My best achievement so far is reaching the Queen rank, the highest tier in the game’s ranking system. Below is a screenshot capturing the thrilling final showdown between the last two players, with six others already eliminated:
 </p>
 
 <div style="text-align: center;">
