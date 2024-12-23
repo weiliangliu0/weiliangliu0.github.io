@@ -11,6 +11,9 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
+
+<h2>Ultimate Frisbee</h2>
+
 <p>
 I enjoy playing <a href="https://en.wikipedia.org/wiki/Ultimate_(sport)" target="_blank">Ultimate Frisbee</a>! I am currently a member of <a href="https://fissionultimate.weebly.com/community.html" target="_blank">HedonismBots</a>, the developmental division of UChicago's highest level open Ultimate team.</p> 
 
@@ -27,5 +30,10 @@ In addition, I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/
 
 <img src="http://weiliangliu0.github.io/images/handler.jpg" alt="Playing as a Handler" style="width:100%;max-width:600px;">
 
+<h2>Auto Chess</h2>
+I love playing <a href="https://ac.dragonest.com/en/gameIntroduction" target="_blank">Auto Chess</a>, a game that combines strategy and a bit of luck in the most exciting way! 
+In each match, eight players draft lineups from a shared pool of chess pieces, carefully managing limited resources to create the best possible synergies, and battle in pairs over multiple rounds. The goal? Be the last player standing. I am proud to say my average rank is 2.9 among 8 players, with a solid 32% of my games finishing in first place. My best achievement so far is reaching the Queen rank—the highest tier in the game’s ranking system. Below is a screenshot of the game where the last two players standing is having the ultimate fight, with 6 other players already eliminated.
+
+<img src="http://weiliangliu0.github.io/images/autochess.png" alt="auto chess" style="width:100%;max-width:600px;">
 
 </body>
