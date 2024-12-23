@@ -44,6 +44,8 @@ Players face off in pairs over multiple rounds, with the ultimate goal of being 
 I’m proud of my average rank of 2.9 among 8 players, with a solid 32% of my games finishing in first place. My best achievement so far is reaching the Queen rank, the highest tier in the game’s ranking system. Below is a screenshot capturing the thrilling final showdown between the last two players, with six others already eliminated.
 </p>
 
-<img src="http://weiliangliu0.github.io/images/autochess.png" alt="auto chess" style="width:100%;max-width:600px;">
+<div style="text-align: center;">
+  <img src="http://weiliangliu0.github.io/images/autochess.png" alt="Auto Chess" style="width:100%; max-width:600px;">
+</div>
 
 </body>
