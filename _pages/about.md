@@ -133,6 +133,8 @@ Chicago, IL 60637, United States  </li>
 <h2>Selected Awards</h2>
 <p style="margin-top: 1em;">
 <ul>
+<li>Finalist, 2025 POMS-HK Best Student Paper Award (Winner TBD) [<a href="https://pomshk2025.cuhk.edu.hk/participation/best-student-paper-competition/" target="_blank">Info</a>]<br>
+	</li>
 <li>First Place, 2023 INFORMS SOLA Best Student Paper Award [<a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Section-on-Location-Analysis/Best-Student-Paper-Award" target="_blank">Info</a>]<br>
 <!-- <em>
 "Given biennially for student papers judged to be the best in the broad field of facility location"
