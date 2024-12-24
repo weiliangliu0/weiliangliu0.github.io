@@ -17,16 +17,16 @@ author_profile: true
 <!--  -->
 <li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Paper</a>]<br>
 	<span style="font-size: 12pt;">Xu Sun, <u>Weiliang Liu</u></span> <br>
-	Forthcoming at <font color="#750F09">Operations Research</font> <br>
+	Forthcoming at <font color="#BB180E">Operations Research</font> <br>
   </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Paper</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Xu Sun</span><br>
-	<font color="#750F09">Manufacturing & Service Operations Management</font>, Vol. 24, No. 3, 2022 </li>
+	<font color="#BB180E">Manufacturing & Service Operations Management</font>, Vol. 24, No. 3, 2022 </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
 	<span style="font-size: 12pt;">Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie</span><br>
-	<font color="#750F09">IEEE Trans. on Automation Science and Engineering</font>, Vol. 19, No. 4, 2022 </li>
+	<font color="#BB180E">IEEE Trans. on Automation Science and Engineering</font>, Vol. 19, No. 4, 2022 </li>
 </ol>
 
 <h2>Working Papers</h2>
@@ -34,24 +34,24 @@ author_profile: true
  <!--  -->
  	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> <br>
   	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
-In Preparation for <font color="#750F09"> Mathematics of Operations Research</font>
+In Preparation for <font color="#BB180E"> Mathematics of Operations Research</font>
 	</li>
  <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
-	Major Revision at <font color="#750F09"> Management Science</font><br>
+	Major Revision at <font color="#BB180E"> Management Science</font><br>
 	<font color="red"> Finalist </font>, POMS-HK Best Student Paper Award, 2025 (Winner TBD)
 	</li>
 	 <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>]<br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye</span><br>
-	Major Revision at <font color="#750F09"> Production & Operations Management</font> <br>
+	Major Revision at <font color="#BB180E"> Production & Operations Management</font> <br>
 	<font color="red"> First Place </font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
 	</li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> [<a href="mailto:weiliang.liu@chicagobooth.edu" target="_blank">Upon Request</a>] <br>
 	<span style="font-size: 12pt;">Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
-	Submitted to <font color="#750F09"> Operations Research</font> <br>
+	Submitted to <font color="#BB180E"> Operations Research</font> <br>
 	</li>
 	<!--  -->
 </ol>
