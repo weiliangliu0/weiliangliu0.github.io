@@ -38,15 +38,16 @@ On the left is a selfie with my amazing teammates after the Windy City Cup, whil
 <p>
 I love playing <a href="https://ac.dragonest.com/en/gameIntroduction" target="_blank">Auto Chess</a>, a game that masterfully blends strategy and a touch of luck! 
 In each match, 8 players draft lineups from a shared pool of chess pieces, carefully managing limited resources to create the best possible synergies.
-Players face off in pairs over multiple rounds, with the ultimate goal of being the last one standing. 
-</p>
-
-<p>
-I’m proud of my average rank of 2.9 among 8 players, with 32% of my matches finishing in first place. My best seasonal rank so far is "Queen", the top tier in the game’s ranking system. Below is a screenshot capturing the thrilling final showdown between the last two players in a match, with six others already eliminated:
+Players face off in pairs over multiple rounds, with the ultimate goal of being the last one standing. Below is a screenshot capturing the thrilling final showdown between the last two players in a match, with six others already eliminated:
 </p>
 
 <div style="text-align: center;">
   <img src="http://weiliangliu0.github.io/images/autochess.png" alt="Auto Chess" style="width:100%; max-width:600px;">
 </div>
+
+
+<p>
+I’m proud of my average rank of 2.9 among 8 players, with 32% of my matches finishing in first place. My best seasonal rank so far is "Queen", the top tier in the game’s ranking system. 
+</p>
 
 </body>
