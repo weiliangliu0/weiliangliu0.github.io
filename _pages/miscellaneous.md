@@ -24,14 +24,14 @@ In 2022, Jianfeng and I co-founded <a href="https://www.instagram.com/novae_ulti
 </p>
 
 <p>
-I was also part of the "UChicago Ocean Sunfish" team that won the 2024 Windy City Cup Ultimate Frisbee Championship.
+I was part of the "UChicago Ocean Sunfish" team that won the 2024 Windy City Cup Ultimate Frisbee Championship.
 <!--In addition, I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/?igsh=NjZ1MjIya2szYWU4" target="_blank">2022 Freakshow Work & Play Hat</a> and won a bronze medal.--> 
-On the left is a photo of me playing as a <a href="https://www.theuap.com/ultimate-frisbee-positions-which-one-is-best-for-you" target="_blank">Handler</a> at the <a href="https://www.instagram.com/p/Cq_-1eBBWZv/?igsh=eHF3eW4yanZvcXRk" target="_blank">2023 Singapore Gold & Bold Hat</a>, while on the right is a selfie with my amazing teammates after the Windy City Cup:
+On the left is a selfie with my amazing teammates after the Windy City Cup, while on the right is a photo of me playing as a <a href="https://www.theuap.com/ultimate-frisbee-positions-which-one-is-best-for-you" target="_blank">Handler</a> at the <a href="https://www.instagram.com/p/Cq_-1eBBWZv/?igsh=eHF3eW4yanZvcXRk" target="_blank">2023 Singapore Gold & Bold Hat</a>:
 </p>
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center;">
-  <img src="http://weiliangliu0.github.io/images/handler.jpg" alt="Playing as a Handler" style="height: 300px; width: auto; object-fit: cover;">
   <img src="http://weiliangliu0.github.io/images/windycitycup.jpg" alt="Windy City Cup" style="height: 300px; width: auto; object-fit: cover;">
+  <img src="http://weiliangliu0.github.io/images/handler.jpg" alt="Playing as a Handler" style="height: 300px; width: auto; object-fit: cover;">
 </div>
 
 <h2>Auto Chess</h2>
