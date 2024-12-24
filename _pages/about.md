@@ -79,7 +79,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
 	<span style="font-size: 12pt;">Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie</span><br>
-	<font color="#750F09">IEEE Trans. on Automation Science and Engineering</font>, Vol. 19, No. 4, 2022 </li>
+	<font color="#BB180E">IEEE Trans. on Automation Science and Engineering</font>, Vol. 19, No. 4, 2022 </li>
 </ol>
 
 <h2>Working Papers</h2>
