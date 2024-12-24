@@ -75,7 +75,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Paper</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Xu Sun</span><br>
-	<font color="#F4D3D5">Manufacturing & Service Operations Management</font>, Vol. 24, No. 3, 2022 </li>
+	<font color="#D31B10">Manufacturing & Service Operations Management</font>, Vol. 24, No. 3, 2022 </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Modeling and Optimization for Emergency Medical Services Network</span> <br>
 	<span style="font-size: 12pt;">Ran Liu, <u>Weiliang Liu</u>, Yuxin Liu, Ershun Pan and Xiaolan Xie</span><br>
