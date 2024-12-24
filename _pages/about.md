@@ -55,22 +55,22 @@ In 2020, I obtained my B.E. in Industrial Engineering from the <a href="https://
 
 <h2>Research Interests</h2>
 <p> 
-My research tackles complex challenges in <span style="font-weight: bold;"><font color="#9932CC">modern service operations</font></span> and <span style="font-weight: bold;"><font color="#9932CC">socially responsible operations</font></span>. Using tools from stochastic process, optimization, queuing control, and data analytics, my work bridges theory and practice to develop efficient solution methods and deliver actionable insights. A roadmap of my work in this area: 
+My research tackles complex challenges in <span style="font-weight: bold;"><font color="#750F09">modern service operations</font></span> and <span style="font-weight: bold;"><font color="#750F09">socially responsible operations</font></span>. Using tools from stochastic process, optimization, queuing control, and data analytics, my work bridges theory and practice to develop efficient solution methods and deliver actionable insights. A roadmap of my work in this area: 
 <ul>
-<li><b><span style="font-weight: bold;"><font color="#9932CC">Modern service operations</font></span> [1,2,4,5,6]</b>: Improve efficiency in service environments featured by innovative business models, technologies and initiatives, including managing on-demand workforces [1], controlling drone delivery systems [2], and matching demand with supply on online platforms [4].</li>
-<li><b><span style="font-weight: bold;"><font color="#9932CC">Socially responsible operations</font></span> [3,5,6,7]</b>: Enhance service systems to meet societal needs and create public impact, such as crowdsourcing community volunteers during emergencies [5], designing ambulance-drone networks for cardiac arrest response [6], and deploying rescue teams for lift-trap incidents [7].</li>
+<li><b><span style="font-weight: bold;"><font color="#750F09">Modern service operations</font></span> [1,2,4,5,6]</b>: Improve efficiency in service environments featured by innovative business models, technologies and initiatives, including managing on-demand workforces [1], controlling drone delivery systems [2], and matching demand with supply on online platforms [4].</li>
+<li><b><span style="font-weight: bold;"><font color="#750F09">Socially responsible operations</font></span> [3,5,6,7]</b>: Enhance service systems to meet societal needs and create public impact, such as crowdsourcing community volunteers during emergencies [5], designing ambulance-drone networks for cardiac arrest response [6], and deploying rescue teams for lift-trap incidents [7].</li>
 </ul>
 </p>
 
 <p> 
-I am also pursuing a theory-centered research agenda at <span style="font-weight: bold;"><font color="#9932CC">data-driven queuing control</font></span>. By integrating statistical learning with queuing asymptotics, my focus is to develop data-driven and provably "optimal" policies for queuing systems with unknown primitives [4].</p>
+I am also pursuing a theory-centered research agenda at <span style="font-weight: bold;"><font color="#750F09">data-driven queuing control</font></span>. By integrating statistical learning with queuing asymptotics, my focus is to develop data-driven and provably "optimal" policies for queuing systems with unknown primitives [4].</p>
 
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 0.8em;">
 <!--  -->
 <li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Paper</a>]<br>
 	<span style="font-size: 12pt;">Xu Sun, <u>Weiliang Liu</u></span> <br>
-	Forthcoming at <font color="blue">Operations Research</font> <br>
+	Forthcoming at <font color="#750F09">Operations Research</font> <br>
   </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Paper</a>] <br>
