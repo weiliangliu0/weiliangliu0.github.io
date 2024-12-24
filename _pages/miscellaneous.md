@@ -36,7 +36,7 @@ In addition, I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/
 <h2>Auto Chess</h2>
 <p>
 I love playing <a href="https://ac.dragonest.com/en/gameIntroduction" target="_blank">Auto Chess</a>, a game that masterfully blends strategy and a touch of luck! 
-In each match, eight players draft lineups from a shared pool of chess pieces, carefully managing limited resources to create the best possible synergies.
+In each match, 8 players draft lineups from a shared pool of chess pieces, carefully managing limited resources to create the best possible synergies.
 Players face off in pairs over multiple rounds, with the ultimate goal of being the last one standing. 
 </p>
 
