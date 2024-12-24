@@ -47,7 +47,7 @@ Players face off in pairs over multiple rounds, with the ultimate goal of being 
 
 
 <p>
-I’m proud of my average rank of 2.9 among 8 players, with 32% of my matches finishing in first place. My best seasonal rank so far is "Queen", the top tier in the game’s ranking system. 
+I’m proud of my average rank of 2.9 among 8 players, with 32% of matches finishing in first place. My best seasonal rank is "Queen", the top tier in the game’s ranking system. 
 </p>
 
 </body>
