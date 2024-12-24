@@ -25,7 +25,7 @@ In 2022, Jianfeng and I co-founded <a href="https://www.instagram.com/novae_ulti
 
 <p>
 I was also part of the "UChicago Ocean Sunfish" team that won the 2024 Windy City Cup Ultimate Frisbee Championship.
-In addition, I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/?igsh=NjZ1MjIya2szYWU4" target="_blank">2022 Freakshow Work & Play Hat</a> and won a bronze medal. On the left is a photo of me playing as a <a href="https://www.theuap.com/ultimate-frisbee-positions-which-one-is-best-for-you" target="_blank">Handler</a> at the <a href="https://www.instagram.com/p/Cq_-1eBBWZv/?igsh=eHF3eW4yanZvcXRk" target="_blank">2023 Singapore Gold & Bold Hat</a>, while on the right is a selfie with my amazing teammates after our victory at the 2024 Windy City Cup:
+In addition, I competed in the <a href="https://www.instagram.com/p/Clf8roCBuEP/?igsh=NjZ1MjIya2szYWU4" target="_blank">2022 Freakshow Work & Play Hat</a> and won a bronze medal. On the left is a photo of me playing as a <a href="https://www.theuap.com/ultimate-frisbee-positions-which-one-is-best-for-you" target="_blank">Handler</a> at the <a href="https://www.instagram.com/p/Cq_-1eBBWZv/?igsh=eHF3eW4yanZvcXRk" target="_blank">2023 Singapore Gold & Bold Hat</a>, while on the right is a selfie with my amazing teammates after the Windy City Cup:
 </p>
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center;">
@@ -41,7 +41,7 @@ Players face off in pairs over multiple rounds, with the ultimate goal of being 
 </p>
 
 <p>
-I’m proud of my average rank of 2.9 among 8 players, with a solid 32% of my games finishing in first place. My best achievement so far is reaching the Queen rank, the highest tier in the game’s ranking system. Below is a screenshot capturing the thrilling final showdown between the last two players, with six others already eliminated:
+I’m proud of my average rank of 2.9 among 8 players, with 32% of my games finishing in first place. My best seasonal rank so far is the ``Queen'', the highest tier in the game’s ranking system. Below is a screenshot capturing the thrilling final showdown between the last two players in a match, with six others already eliminated:
 </p>
 
 <div style="text-align: center;">
