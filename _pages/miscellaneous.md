@@ -41,7 +41,7 @@ In each match, 8 players draft lineups from a shared pool of chess pieces, caref
 Players face off in pairs over multiple rounds, with the ultimate goal of being the last one standing. Below is a screenshot capturing the thrilling final showdown between the last two players in a match, with six others already eliminated:
 </p>
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 20px;">
   <img src="http://weiliangliu0.github.io/images/autochess.png" alt="Auto Chess" style="width:100%; max-width:600px;">
 </div>
 
