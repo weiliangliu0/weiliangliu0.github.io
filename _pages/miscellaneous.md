@@ -30,8 +30,12 @@ On the left is a selfie with my amazing teammates after the Windy City Cup, whil
 </p>
 
 <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center;">
-  <img src="http://weiliangliu0.github.io/images/windycitycup.jpg" alt="Windy City Cup" style="height: 300px; width: auto; object-fit: cover;">
-  <img src="http://weiliangliu0.github.io/images/handler.jpg" alt="Playing as a Handler" style="height: 300px; width: auto; object-fit: cover;">
+  <img src="http://weiliangliu0.github.io/images/windycitycup.jpg" 
+       alt="Windy City Cup" 
+       style="height: 300px; width: auto; object-fit: cover; margin-right: 10px;">
+  <img src="http://weiliangliu0.github.io/images/handler.jpg" 
+       alt="Playing as a Handler" 
+       style="height: 300px; width: auto; object-fit: cover; margin-left: 10px;">
 </div>
 
 <h2>Auto Chess</h2>
