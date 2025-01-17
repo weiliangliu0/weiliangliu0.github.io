@@ -12,9 +12,8 @@ author_profile: true
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
 <h3>The University of Chicago Booth School of Business</h3>
-Scheduled:
 <ul>
-	<li>Bus 40110: Managing Service Operation (MBA) --- Winter 2025</li>
+	<li>Bus 40110: Managing Service Operation (MBA, 80+ students in two sessions) --- Winter 2025</li>
 </ul>
 
 <h3>National University of Singapore</h3>
