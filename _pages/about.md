@@ -93,13 +93,13 @@ In Preparation for <font color="#BB180E"> Mathematics of Operations Research</fo
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="#BB180E"> Management Science</font><br>
-	<font color="blue"> Finalist </font>, POMS-HK Best Student Paper Award, 2025 (Winner TBD)
+	<font color="blue"> Finalist</font>, POMS-HK Best Student Paper Award, 2025
 	</li>
 	 <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>]<br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="#BB180E"> Production & Operations Management</font> <br>
-	<font color="blue"> First Place </font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
+	<font color="blue"> First Place</font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
 	</li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> [<a href="mailto:weiliang.liu@chicagobooth.edu" target="_blank">Upon Request</a>] <br>
