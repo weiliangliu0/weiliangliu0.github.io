@@ -121,15 +121,6 @@ I have been particularly interested in service systems that involves emerging te
 </p>-->
 
 
-<h2>Contact</h2>
-<p style="margin-top: 1em;">
-<ul>
-<li>Email: weiliang.liu@chicagobooth.edu </li>
-<li>McGiffert House, 5751 S Woodlawn Ave  <br>
-Chicago, IL 60637, United States  </li>
-</ul>
-</p>
-
 <h2>Selected Awards</h2>
 <p style="margin-top: 1em;">
 <ul>
@@ -146,6 +137,15 @@ Chicago, IL 60637, United States  </li>
   <li> Chinese Government Award for Outstanding Students Abroad [<a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Info</a>]<br>
   <!--<em>"The highest government award granted by the Chinese government to Chinese students overseas"</em>-->
   </li>
+</ul>
+</p>
+
+<h2>Contact</h2>
+<p style="margin-top: 1em;">
+<ul>
+<li>Email: weiliang.liu@chicagobooth.edu </li>
+<li>McGiffert House, 5751 S Woodlawn Ave  <br>
+Chicago, IL 60637, United States  </li>
 </ul>
 </p>
 
