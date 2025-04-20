@@ -81,7 +81,6 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 <li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Paper</a>]<br>
 	<span style="font-size: 12pt;">Xu Sun, <u>Weiliang Liu</u></span> <br>
 		<font color="#BB180E">Operations Research</font>, Vol. 73, No. 1, 2025 </li>
-  </li>
   <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Paper</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Xu Sun</span><br>
@@ -93,7 +92,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 </ol>
 
 <h2>Working Papers</h2>
-<ol style="margin-top: 0em; margin-bottom: 1.4em;" start="4">
+<ol style="margin-top: 0em; margin-bottom: 1.4em;" start="5">
  <!--  -->
  	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> <br>
   	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
