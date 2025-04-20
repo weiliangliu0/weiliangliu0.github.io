@@ -129,7 +129,7 @@ I have been particularly interested in service systems that involves emerging te
 <ul>
 <li>Finalist, 2025 POMS-HK Best Student Paper Award [<a href="https://pomshk2025.cuhk.edu.hk/participation/best-student-paper-competition/" target="_blank">Info</a>]<br>
 	</li>
-<li>First Place, 2023 INFORMS SOLA Best Student Paper Award [<a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Section-on-Location-Analysis/Best-Student-Paper-Award" target="_blank">Info</a>]<br>
+<li>First Place, 2023 INFORMS SOLA Best Student Paper Award [<a href="https://www.informs.org/Recognizing-Excellence/Award-Recipients/Weiliang-Liu" target="_blank">Info</a>]<br>
 <!-- <em>
 "Given biennially for student papers judged to be the best in the broad field of facility location"
 </em>-->
