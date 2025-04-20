@@ -60,15 +60,15 @@ Previously, I obtained my B.E. in Industrial Engineering from the <a href="https
 
 <h2>Research Interests</h2>
 <p> 
-My research tackles complex challenges in <span style="font-weight: bold;"><font color="#750F09">modern service operations</font></span> and <span style="font-weight: bold;"><font color="#750F09">socially responsible operations</font></span>. Using tools from stochastic process, optimization, queuing control, and data analytics, my work bridges theory and practice to develop efficient solutions and offer actionable insights:
-<ul>
+My research tackles complex challenges in <span style="font-weight: bold;"><font color="#750F09">modern service operations</font></span> (featured by innovative business models, technologies and initiatives) and <span style="font-weight: bold;"><font color="#750F09">socially responsible operations</font></span> (to meet societal needs and create public impact). Using tools from stochastic process, optimization, queuing control, and data analytics, my work bridges theory and practice to develop efficient solutions and offer actionable insights.
+<!--<ul>
 <li><b><span style="font-weight: bold;"><font color="#750F09">Modern service operations</font></span></b>: This line of works study service environments featured by innovative business models, technologies and initiatives, including managing on-demand workforces [2], controlling drone delivery systems [3], and activating volunteers during medical emergencies [1,6].</li>
 <li><b><span style="font-weight: bold;"><font color="#750F09">Socially responsible operations</font></span></b>: This line of works enhance service systems to meet societal needs and create public impact, such as designing ambulance-drone networks for cardiac arrest response [1], optimizing community responder alert strategies [6], and deploying rescue teams for lift-trap incidents [7].</li>
-</ul>
+</ul>-->
 </p>
 
 <p> 
-I am also pursuing a theory-centered research agenda at <span style="font-weight: bold;"><font color="#750F09">data-driven queuing control</font></span>. By integrating statistical learning with queuing asymptotics, my focus is to develop data-driven and provably "optimal" policies for queuing systems with unknown primitives [5].</p>
+I am also pursuing a theory-centered research agenda at <span style="font-weight: bold;"><font color="#750F09">data-driven queuing control</font></span>. By integrating statistical learning with queuing asymptotics, my focus is to develop data-driven and provably "optimal" policies for queuing systems with unknown primitives.</p>
 
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 0.8em;">
