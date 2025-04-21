@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
@@ -11,6 +11,9 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
+
+
+<h2>Teaching</h2>
 <h3>The University of Chicago Booth School of Business</h3>
 <ul>
 	<li>Bus 40110: Managing Service Operation (MBA, 80+ students in two sessions) --- Winter 2025</li>
@@ -23,5 +26,11 @@ I served as the lead tutor and principal designer of tutorial materials for the 
   <li> IE4213/EE4802: Learning from Data (Undergraduate, 60+ students) --- Spring 2021, Spring 2022, Spring 2023</li>
 </ul>
 
+<h2>Service</h2>
+<ul>
+	<li>Journal reviewer for Queueing Systems</li>
+  <li> Conference reviewer for M&SOM</li>
+  <li> Judge, INFORMS PSOR Best Paper Competition, 2024</li>
+</ul>
 
 </body>
