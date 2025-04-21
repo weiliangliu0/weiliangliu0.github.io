@@ -43,7 +43,7 @@ redirect_from:
 
 <p class="adjust-line-length"> 
 Hi! I am a principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
-Previsouly, I received my Ph.D. from the National University of Singapore in 2025, and B.E. from the Shanghai Jiao Tong University in 2020.
+I received my Ph.D. from the National University of Singapore in 2025, and B.E. from the Shanghai Jiao Tong University in 2020.
 
 <!--
 , working with Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
