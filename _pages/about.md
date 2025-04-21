@@ -104,7 +104,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 </ul>
 </p>
 
-<h2>Advertisement</h2>
+<h2>Opportunities</h2>
 <p>I am looking for motivated PhD students with strong mathematical and technical skills to work with me. My previous projects are listed <a href="https://weiliangliu0.github.io/publication/" target="_blank">here</a>. If you're interested, please feel free to reach out with your CV and transcript.
 </p>
 
