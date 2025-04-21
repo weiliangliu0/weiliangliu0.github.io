@@ -66,6 +66,11 @@ My research leverages stochastic modeling and control, queueing theory, optimiza
 </li>
 </ul>
 </p>
+
+<p>
+My research has been published in leading outlets including Operations Research, Manufacturing & Service Operations Management, and Production & Operations Management, and has received notable recognitions, including the INFORMS SOLA Best Student Paper Award, and a finalist of the POMS-HK Best Student Paper Award.
+</p>
+
 <!--
 tackles complex challenges in <span style="font-weight: bold;"><font color="#750F09">modern service operations</font></span> (featured by innovative business models, technologies and initiatives) and <span style="font-weight: bold;"><font color="#750F09">socially responsible operations</font></span> (to improve social good and create public impact). Using tools from stochastic process, optimization, and data analytics, my work bridges theory and practice to develop efficient solutions and offer actionable insights.
 <ul>
