@@ -68,7 +68,7 @@ My research leverages stochastic modeling and control, queueing theory, optimiza
 </p>
 
 <p>
-My <a href="https://weiliangliu0.github.io/publication/" target="_blank">research works</a> have been published in top academic journals, including Operations Research, Manufacturing & Service Operations Management, and Production & Operations Management, and have received notable recognitions, including the INFORMS SOLA Best Student Paper Award, and a finalist of the POMS-HK Best Student Paper Award.
+My <a href="https://weiliangliu0.github.io/publication/" target="_blank">research works</a> have been published in top outlets, including Operations Research, Manufacturing & Service Operations Management, and Production & Operations Management, and have received notable recognitions, including the INFORMS SOLA Best Student Paper Award, and a finalist of the POMS-HK Best Student Paper Award.
 </p>
 
 <!--
