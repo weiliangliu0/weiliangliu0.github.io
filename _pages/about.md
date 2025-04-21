@@ -51,7 +51,7 @@ I was fortunate to visit Professor <a href="https://chan.mie.utoronto.ca/" targe
 Previously, I obtained my B.E. from the <a href="https://en.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University</a> in 2020.
 </p>-->
 
-<p>  I will be joining the Department of SEEM at the <a href="https://www.se.cuhk.edu.hk/" target="_blank">Chinese University of Hong Kong</a> as an Assistant Professor in November 2025.
+<p>  I will be joining <a href="https://www.se.cuhk.edu.hk/" target="_blank">CUHK, SEEM</a> as an Assistant Professor in November 2025.
 </p>
 <!--
 <p>  My <a href="http://weiliangliu0.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">CV</a> can be downloaded here.
