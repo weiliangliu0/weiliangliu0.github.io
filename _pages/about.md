@@ -42,11 +42,14 @@ redirect_from:
 <!-- <h2>About Me</h2>-->
 
 <p class="adjust-line-length"> 
-Hello! I am a principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, mentored by Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
-I obtained my Ph.D. at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a>, working with Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
+Hi! I am a principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
+Previsouly, I obtained my Ph.D. at the National University of Singapore in 2025, and B.E. from the Shanghai Jiao Tong University in 2020.
+
+<!--
+, working with Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
 I was fortunate to visit Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> at the University of Toronto in 2023 Fall, and Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank">Xu Sun</a> at the University of Florida in 2019 Summer.
 Previously, I obtained my B.E. from the <a href="https://en.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University</a> in 2020.
-</p>
+</p>-->
 
 <p>  I will be joining the Department of SEEM at the <a href="https://www.se.cuhk.edu.hk/" target="_blank">Chinese University of Hong Kong</a> as an Assistant Professor in November 2025.
 </p>
