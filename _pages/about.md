@@ -45,7 +45,7 @@ redirect_from:
 Hello! I am a principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, mentored by Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
 I obtained my Ph.D. at the <a href="https://nus.edu.sg/" target="_blank"> National University of Singapore</a>, working with Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
 I was fortunate to visit Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> in 2023 Fall, and Professor <a href="https://people.miami.edu/profile/1d92943aaf793b047e6a5017b9f4a5c1" target="_blank">Xu Sun</a> 2019 Summer.
-Previously, I obtained my B.E. in Industrial Engineering from the <a href="https://en.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University</a> in 2020.
+Previously, I obtained my B.E. from the <a href="https://en.sjtu.edu.cn/" target="_blank"> Shanghai Jiao Tong University</a> in 2020.
 </p>
 
 <p>  I will be joining the Department of <a href="https://www.se.cuhk.edu.hk/" target="_blank">Systems Engineering and Engineering Management</a> at Chinese University of Hong Kong as an Assistant Professor in November 2025.
@@ -59,8 +59,8 @@ Previously, I obtained my B.E. in Industrial Engineering from the <a href="https
 <p> 
 My research leverages stochastic modeling and control, queueing theory, optimization, and data analytics to tackle complex operational challenges in the following areas:
 <ul>
-<li><b><span style="font-weight: bold;"><font color="#750F09">Modern service operations</font></span></b>: Improve service environments featured by innovative business models, technologies and initiatives, e.g., on-demand workforces, drones, and LLMs.</li>
-<li><b><span style="font-weight: bold;"><font color="#750F09">Socially responsible operations</font></span></b>: Enhance service systems to meet societal needs and create public impact, e.g., cardiac arrest response system, community first responder programs, lift-trap rescue operations.
+<li><b><span style="font-weight: bold;"><font color="#750F09">Modern service operations</font></span></b>: Improve service environments featured by innovative business models, technologies and initiatives, e.g., on-demand workforces, drones, and large language models.</li>
+<li><b><span style="font-weight: bold;"><font color="#750F09">Socially responsible operations</font></span></b>: Enhance service systems to meet societal needs and create public impact, e.g., cardiac arrest response, community first responder programs, and lift-trap rescue.
 </li>
 <li><b><span style="font-weight: bold;"><font color="#750F09">Data-driven queueing control</font></span></b>: Develop data-driven and provably "optimal" policies for queuing systems with unknown system primitives.
 </li>
@@ -97,7 +97,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 </p>
 
 <h2>Advertisement</h2>
-<p>I am looking for motivated PhD students with strong mathematical and technical backgrounds. Please see my previous projects [<a href="https://weiliangliu0.github.io/publication/" target="_blank">here</a>]. If you're interested in working with me, please feel free to reach out with your CV and transcript.
+<p>I am looking for motivated PhD students with strong mathematical and technical backgrounds. My previous projects are listed <a href="https://weiliangliu0.github.io/publication/" target="_blank">here</a>. If you're interested in working with me, please feel free to reach out with your CV and transcript.
 </p>
 
 <h2>Contact</h2>
