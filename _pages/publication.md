@@ -20,11 +20,11 @@ author_profile: true
 	<font color="blue"> First Place</font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
 	</li>
   <!--  -->
-<li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/epdf/10.1287/opre.2021.0651" target="_blank">Paper</a>]<br>
+<li><span style="font-size: 14pt; font-weight: bold;">Expanding Service Capabilities Through an On-Demand Workforce</span> [<a href="https://pubsonline.informs.org/doi/10.1287/opre.2021.0651" target="_blank">Paper</a>]<br>
 	<span style="font-size: 12pt;">Xu Sun, <u>Weiliang Liu</u></span> <br>
 		<font color="#BB180E">Operations Research</font>, Vol. 73, No. 1, 2025 </li>
   <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/pdf/10.1287/msom.2021.1056" target="_blank">Paper</a>] <br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Energy-Aware and Delay-Sensitive Management of a Drone Delivery System</span> [<a href="https://pubsonline.informs.org/doi/10.1287/msom.2021.1056" target="_blank">Paper</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Xu Sun</span><br>
 	<font color="#BB180E">Manufacturing & Service Operations Management</font>, Vol. 24, No. 3, 2022 </li>
   <!--  -->
