@@ -95,7 +95,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 "Given biennially for student papers judged to be the best in the broad field of facility location"
 </em>-->
 	</li>
-	<li>President's Graduate Fellowship [<a href="https://nusgs.nus.edu.sg/scholarships-list/?pgf%22%20\t%20%22_blank" target="_blank">Info</a>]<br>
+	<li>President's Graduate Fellowship [<a href="https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship" target="_blank">Info</a>]<br>
 	<!--<em>"Awarded to PhD candidates who show exceptional promise or accomplishment in research"</em>-->
 	</li>
   <li> Chinese Government Award for Outstanding Students Abroad [<a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Info</a>]<br>
