@@ -114,7 +114,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
 <ul>
-<li>Email: weiliang.liu@chicagobooth.edu </li>
+<li>Email: weiliang.liu@chicagobooth.edu; wlliu@se.cuhk.edu.hk </li>
 <li>McGiffert House, 5751 S Woodlawn Ave  <br>
 Chicago, IL 60637, United States  </li>
 </ul>
