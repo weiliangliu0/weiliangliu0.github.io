@@ -95,6 +95,9 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 "Given biennially for student papers judged to be the best in the broad field of facility location"
 </em>-->
 	</li>
+  	<li>National Semiconductor Gold Medal and Prize[<a href="https://cde.nus.edu.sg/isem/awards-student/nsgoldmedalprize/#:~:text=Donated%20in%201994%20by%20the,award%20of%20another%20gold%20medal." target="_blank">Info</a>]<br>
+	<!--<em>"Awarded to PhD candidates who show exceptional promise or accomplishment in research"</em>-->
+	</li>
 	<li>President's Graduate Fellowship [<a href="https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship" target="_blank">Info</a>]<br>
 	<!--<em>"Awarded to PhD candidates who show exceptional promise or accomplishment in research"</em>-->
 	</li>
