@@ -95,13 +95,13 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 "Given biennially for student papers judged to be the best in the broad field of facility location"
 </em>-->
 	</li>
-  	<li>National Semiconductor Gold Medal and Prize[<a href="https://cde.nus.edu.sg/isem/awards-student/nsgoldmedalprize/#:~:text=Donated%20in%201994%20by%20the,award%20of%20another%20gold%20medal." target="_blank">Info</a>]<br>
+  	<li>National Semiconductor Gold Medal and Prize, Class of 2025 [<a href="https://cde.nus.edu.sg/isem/awards-student/nsgoldmedalprize/#:~:text=Donated%20in%201994%20by%20the,award%20of%20another%20gold%20medal." target="_blank">Info</a>]<br>
 	<!--<em>"Awarded to PhD candidates who show exceptional promise or accomplishment in research"</em>-->
 	</li>
-	<li>President's Graduate Fellowship [<a href="https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship" target="_blank">Info</a>]<br>
+	<li>President's Graduate Fellowship, 2020-2024 [<a href="https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship" target="_blank">Info</a>]<br>
 	<!--<em>"Awarded to PhD candidates who show exceptional promise or accomplishment in research"</em>-->
 	</li>
-  <li> Chinese Government Award for Outstanding Students Abroad [<a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Info</a>]<br>
+  <li> Chinese Government Award for Outstanding Students Abroad, 2021 [<a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Info</a>]<br>
   <!--<em>"The highest government award granted by the Chinese government to Chinese students overseas"</em>-->
   </li>
 </ul>
