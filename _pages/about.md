@@ -43,7 +43,7 @@ redirect_from:
 
 <p class="adjust-line-length"> 
 Hi! I am a principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
-I received my Ph.D. from the National University of Singapore in 2025, and B.E. from the Shanghai Jiao Tong University in 2020.
+I received my Ph.D. from the National University of Singapore (NUS) in 2025, and B.E. from the Shanghai Jiao Tong University in 2020.
 
 <!--
 , working with Professors <a href="https://cde.nus.edu.sg/isem/staff/tang-loon-ching/" target="_blank">Loon Ching Tang</a> and <a href="https://cde.nus.edu.sg/isem/staff/ye-zhisheng/" target="_blank">Zhisheng Ye</a>. 
@@ -95,10 +95,10 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 "Given biennially for student papers judged to be the best in the broad field of facility location"
 </em>-->
 	</li>
-  	<li>National Semiconductor Gold Medal and Prize, Class of 2025 [<a href="https://cde.nus.edu.sg/isem/awards-student/nsgoldmedalprize/#:~:text=Donated%20in%201994%20by%20the,award%20of%20another%20gold%20medal." target="_blank">Info</a>]<br>
+  	<li>National Semiconductor Gold Medal and Prize (NUS), Class of 2025 [<a href="https://cde.nus.edu.sg/isem/awards-student/nsgoldmedalprize/#:~:text=Donated%20in%201994%20by%20the,award%20of%20another%20gold%20medal." target="_blank">Info</a>]<br>
 	<!--<em>"Awarded to PhD candidates who show exceptional promise or accomplishment in research"</em>-->
 	</li>
-	<li>President's Graduate Fellowship, 2020-2024 [<a href="https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship" target="_blank">Info</a>]<br>
+	<li>President's Graduate Fellowship (NUS), 2020-2024 [<a href="https://nusgs.nus.edu.sg/scholarships/presidents-graduate-fellowship" target="_blank">Info</a>]<br>
 	<!--<em>"Awarded to PhD candidates who show exceptional promise or accomplishment in research"</em>-->
 	</li>
   <li> Chinese Government Award for Outstanding Students Abroad, 2021 [<a href="https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad" target="_blank">Info</a>]<br>
