@@ -11,6 +11,26 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
+<h2>Working Papers</h2>
+<ol style="margin-top: 0em; margin-bottom: 1.4em;" start="5">
+ <!--  -->
+ 	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>] <br>
+  	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
+Under Review at <font color="#BB180E"> Mathematics of Operations Research</font>
+	</li>
+ <!--  -->
+	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
+	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
+	Major Revision at <font color="#BB180E"> Management Science</font><br>
+	<font color="blue"> Finalist</font>, POMS-HK Best Student Paper Award, 2025
+	</li>
+	 <!--  -->
+	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> [<a href="mailto:weiliang.liu@chicagobooth.edu" target="_blank">Upon Request</a>] <br>
+	<span style="font-size: 12pt;">Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
+	Major Revision at <font color="#BB180E"> Operations Research</font> <br>
+	</li>
+	<!--  -->
+</ol>
 
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 0.8em;">
@@ -33,26 +53,7 @@ author_profile: true
 	<font color="#BB180E">IEEE Trans. on Automation Science and Engineering</font>, Vol. 19, No. 4, 2022 </li>
 </ol>
 
-<h2>Working Papers</h2>
-<ol style="margin-top: 0em; margin-bottom: 1.4em;" start="5">
- <!--  -->
- 	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> [<a href="mailto:weiliang.liu@chicagobooth.edu" target="_blank">Upon Request</a>] <br>
-  	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
-To be submitted to <font color="#BB180E"> Mathematics of Operations Research</font>
-	</li>
- <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
-	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
-	Major Revision at <font color="#BB180E"> Management Science</font><br>
-	<font color="blue"> Finalist</font>, POMS-HK Best Student Paper Award, 2025
-	</li>
-	 <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> [<a href="mailto:weiliang.liu@chicagobooth.edu" target="_blank">Upon Request</a>] <br>
-	<span style="font-size: 12pt;">Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
-	Major Revision at <font color="#BB180E"> Operations Research</font> <br>
-	</li>
-	<!--  -->
-</ol>
+
 
 
 </body>
