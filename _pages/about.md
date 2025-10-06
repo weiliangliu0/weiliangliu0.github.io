@@ -60,8 +60,8 @@ Previously, I obtained my B.E. from the <a href="https://en.sjtu.edu.cn/" target
 
 <h2>Research Interests</h2>
 <p> 
-My main interest is in service operations management.
-My research leverages stochastic modeling and control, queueing theory, optimization, and data analytics to tackle complex operational challenges, with a focus on:
+I am interested in service operations management.
+My research uses stochastic modeling and control, queueing theory, optimization, and data analytics to tackle complex operational challenges, with a focus on:
 <ul>
 <li><b><span style="font-weight: bold;"><font color="#750F09">Modern service operations</font></span></b>: Improve service environments featured by innovative business models, initiatives, and emerging technologies, e.g., on-demand workforces, drones, and AI-augmented service systems.</li>
 <li><b><span style="font-weight: bold;"><font color="#750F09">Socially responsible operations</font></span></b>: Enhance service systems to meet societal needs and create public impact, e.g., cardiac arrest response, community first responder programs, and lift-trap rescue.
@@ -115,7 +115,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
 <ul>
-<li>Email: weiliang.liu@chicagobooth.edu; wlliu@se.cuhk.edu.hk </li>
+<li>Email: wlliu@se.cuhk.edu.hk </li>
 <li>McGiffert House, 5751 S Woodlawn Ave  <br>
 Chicago, IL 60637, United States  </li>
 </ul>
