@@ -42,7 +42,7 @@ redirect_from:
 <!-- <h2>About Me</h2>-->
 
 <p class="adjust-line-length"> 
-I am an Assistant Professor of <a href="https://www.se.cuhk.edu.hk/" target="_blank">CUHK, SEEM</a>. I am interested in service operations management and applied probability. 
+I am an Assistant Professor of <a href="https://www.se.cuhk.edu.hk/" target="_blank">CUHK, SEEM</a>. I study service operations management and applied probability. 
 </p>
 
 <p>
