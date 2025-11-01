@@ -42,13 +42,13 @@ redirect_from:
 <!-- <h2>About Me</h2>-->
 
 <p class="adjust-line-length"> 
-I am an assistant professor of <a href="https://www.se.cuhk.edu.hk/" target="_blank">CUHK, SEEM</a>. I am interested in service operations management and applied probability. 
+I am an Assistant Professor of <a href="https://www.se.cuhk.edu.hk/" target="_blank">CUHK, SEEM</a>. I am interested in service operations management and applied probability. 
 </p>
 
 <p>
-I was a postdoctoral principal researcher at the <a href="https://www.chicagobooth.edu/" target="_blank" > University of Chicago Booth School of Business</a>, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
-I was a member of the Applied Optimization Lab hosted by Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> at the University of Toronto.
-I received my Ph.D. from the National University of Singapore (NUS) in 2025, and B.E. from the Shanghai Jiao Tong University in 2020.
+Previously, I was a Postdoctoral Principal Researcher at the University of Chicago Booth School of Business, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
+I was a member of the Applied Optimization Lab led by Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> at the University of Toronto.
+I received my Ph.D. from the National University of Singapore (NUS) in 2025, and my B.E. in 2020 from the Shanghai Jiao Tong University.
 During my undergrad, I worked with Professor <a href="https://sites.google.com/view/xusunshomepage/home" target="_blank">Xu Sun</a> from the Miami Herbert Business School.
 </p>
 <!--
