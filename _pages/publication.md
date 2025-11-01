@@ -24,7 +24,7 @@ Under Review at <font color="#BB180E"> Mathematics of Operations Research</font>
 	<font color="blue"> Finalist</font>, POMS-HK Best Student Paper Award, 2025
 	</li>
 	 <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> [<a href="mailto:weiliang.liu@chicagobooth.edu" target="_blank">Upon Request</a>] <br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic: Application to Lift-Trap Rescue</span> [<a href="mailto:wlliu@se.cuhk.edu.hk" target="_blank">Upon Request</a>] <br>
 	<span style="font-size: 12pt;">Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="#BB180E"> Operations Research</font> <br>
 	</li>
