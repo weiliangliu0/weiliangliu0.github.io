@@ -120,8 +120,8 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 <p style="margin-top: 1em;">
 <ul>
 <li>Email: wlliu@se.cuhk.edu.hk </li>
-<li>McGiffert House, 5751 S Woodlawn Ave  <br>
-Chicago, IL 60637, United States  </li>
+<li>Room 808, William M.W. Mong Engineering Building  <br>
+Hong Kong SAR, China  </li>
 </ul>
 </p>
 
