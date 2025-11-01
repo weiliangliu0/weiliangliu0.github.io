@@ -46,8 +46,8 @@ I am an Assistant Professor of <a href="https://www.se.cuhk.edu.hk/" target="_bl
 </p>
 
 <p>
-Previously, I was a Postdoctoral Principal Researcher at the University of Chicago Booth School of Business, working with Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy  Ward</a>.  
-I received my Ph.D. from the National University of Singapore (NUS) in 2025, and B.E. in 2020 from the Shanghai Jiao Tong University.
+Previously, I was a Principal Researcher at the University of Chicago Booth School of Business, mentored by Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy Ward</a>.  
+I received my Ph.D. from the National University of Singapore in 2025, and B.E. in 2020 from the Shanghai Jiao Tong University.
 I also worked with Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> from the University of Toronto, and Professor <a href="https://sites.google.com/view/xusunshomepage/home" target="_blank">Xu Sun</a> from the Miami Herbert Business School during my research training.
 </p>
 <!--
@@ -60,10 +60,13 @@ Previously, I obtained my B.E. from the <a href="https://en.sjtu.edu.cn/" target
 <p>  My <a href="http://weiliangliu0.github.io/files/WeiliangLiu_Academic_CV.pdf" target="_blank">CV</a> can be downloaded here.
 </p>-->
 
+<h2>Opportunities</h2>
+<p>I am looking for motivated PhD students with strong mathematical and technical skills to work with me. My previous projects are listed <a href="https://weiliangliu0.github.io/publication/" target="_blank">here</a>. If you're interested, please feel free to reach out with your CV and transcript.
+</p>
+
 
 <h2>Research Interests</h2>
 <p> 
-I am interested in service operations management.
 My research uses stochastic modeling and control, queueing theory, optimization, and data analytics to tackle complex operational challenges, with a focus on:
 <ul>
 <li><b><span style="font-weight: bold;"><font color="#750F09">Modern service operations</font></span></b>: Improve service environments featured by innovative business models, initiatives, and emerging technologies, e.g., on-demand workforces, drones, and AI-augmented service systems.</li>
@@ -111,9 +114,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 </ul>
 </p>
 
-<h2>Opportunities</h2>
-<p>I am looking for motivated PhD students with strong mathematical and technical skills to work with me. My previous projects are listed <a href="https://weiliangliu0.github.io/publication/" target="_blank">here</a>. If you're interested, please feel free to reach out with your CV and transcript.
-</p>
+
 
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
