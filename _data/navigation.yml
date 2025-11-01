@@ -5,12 +5,14 @@ main:
 
   - title: "Teaching & Service"
     url: /teaching/    
-        
+
+  - title: "CV"
+    url: /cv/
+          
   - title: "Miscellaneous"
     url: /miscellaneous/
     
-  - title: "CV"
-    url: /cv/
+
     
   #- title: "Guide"
   #  url: /markdown/
