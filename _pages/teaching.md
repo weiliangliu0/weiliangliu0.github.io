@@ -14,6 +14,12 @@ author_profile: true
 
 
 <h2>Teaching</h2>
+
+<h3>The Chinese University of Hong Kong</h3>
+<ul>
+	<li>SEEM3500: Quality Control and Management --- Winter 2026</li>
+</ul>
+
 <h3>The University of Chicago Booth School of Business</h3>
 <ul>
 	<li>Bus 40110: Managing Service Operation (MBA, 80+ students in two sessions) --- Winter 2025</li>
