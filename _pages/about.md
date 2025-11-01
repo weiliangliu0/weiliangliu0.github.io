@@ -61,7 +61,7 @@ Previously, I obtained my B.E. from the <a href="https://en.sjtu.edu.cn/" target
 </p>-->
 
 <h2>Opportunities</h2>
-<p>I am looking for motivated PhD students with strong mathematical and technical skills to work with me. My previous projects are listed <a href="https://weiliangliu0.github.io/publication/" target="_blank">here</a>. If you're interested, please feel free to reach out with your CV and transcript.
+<p>I am looking for motivated PhD students with strong mathematical and technical skills to work with me. My previous projects are listed <a href="https://weiliangliu0.github.io/publication/" target="_blank">here</a>. If you're interested, please feel free to <a href="mailto:wlliu@se.cuhk.edu.hk" target="_blank">email</a> me your CV, transcript(s), and a brief description of your research interests. I review all inquires but may only be able to resply to selected candidates.  
 </p>
 
 
