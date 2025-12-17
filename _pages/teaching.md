@@ -34,7 +34,7 @@ I served as the lead tutor and principal designer of tutorial materials for the 
 
 <h2>Service</h2>
 <ul>
-	<li>Journal reviewer for Queueing Systems</li>
+	<li>Journal reviewer for Manufacturing and Service Operations Management, Queueing Systems</li>
   <li> Conference reviewer for M&SOM</li>
   <li> Judge, INFORMS PSOR Best Paper Competition, 2024 & 2025</li>
 </ul>
