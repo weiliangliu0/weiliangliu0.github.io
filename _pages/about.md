@@ -95,7 +95,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 <h2>Selected Awards</h2>
 <p style="margin-top: 1em;">
 <ul>
-<li>Finalist, 2025 POMS-HK Best Student Paper Award [<a href="https://pomshk2025.cuhk.edu.hk/participation/best-student-paper-competition/" target="_blank">Info</a>]<br>
+<li>Finalist, 2025 POMS-HK Best Student Paper Award <br>
 	</li>
 <li>First Place, 2023 INFORMS SOLA Best Student Paper Award [<a href="https://www.informs.org/Recognizing-Excellence/Award-Recipients/Weiliang-Liu" target="_blank">Info</a>]<br>
 <!-- <em>
