@@ -61,7 +61,7 @@ Previously, I obtained my B.E. from the <a href="https://en.sjtu.edu.cn/" target
 </p>-->
 
 <h2>Opportunities</h2>
-<p>I am looking for motivated PhD students with strong mathematical and technical skills to work with me. My previous projects are listed <a href="https://weiliangliu0.github.io/publication/" target="_blank">here</a>. If you're interested, please feel free to <a href="mailto:wlliu@se.cuhk.edu.hk" target="_blank">email</a> me your CV, transcript(s), and a brief description of your research interests. I review all inquires but may only be able to reply to selected candidates.  
+<p>I am looking for motivated PhD students with strong mathematical and technical skills to work with me. My previous projects are listed <a href="https://weiliangliu0.github.io/publication/" target="_blank">here</a>. If you're interested, please feel free to <a href="mailto:weiliangliu@cuhk.edu.hk" target="_blank">email</a> me your CV, transcript(s), and a brief description of your research interests. I review all inquires but may only be able to reply to selected candidates.  
 </p>
 
 
@@ -119,7 +119,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 <h2>Contact</h2>
 <p style="margin-top: 1em;">
 <ul>
-<li>Email: wlliu@se.cuhk.edu.hk </li>
+<li>Email: weiliangliu@cuhk.edu.hk </li>
 <li>Room 808, William M.W. Mong Engineering Building  <br>
 Hong Kong SAR, China  </li>
 </ul>

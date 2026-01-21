@@ -34,7 +34,7 @@ I served as the lead tutor and principal designer of tutorial materials for the 
 
 <h2>Service</h2>
 <ul>
-	<li>Journal reviewer: Manufacturing & Service Operations Management, Queueing Systems</li>
+	<li>Journal reviewer: Manufacturing & Service Operations Management, Queueing Systems, Journal of Simulation</li>
   <li> Conference reviewer: MSOM (2025), ACM Conference on Economics and Computation (EC'26) </li>
   <li> Judge: INFORMS PSOR Best Paper Competition (2024, 2025)</li>
 </ul>
