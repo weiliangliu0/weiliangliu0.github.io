@@ -42,7 +42,7 @@ redirect_from:
 <!-- <h2>About Me</h2>-->
 
 <p class="adjust-line-length"> 
-I am an Assistant Professor of <a href="https://www.se.cuhk.edu.hk/" target="_blank">CUHK, SEEM</a>. I study service operations and applied probability, with special interests in 1) modern operations challenges arising from emerging technologies and business models, 2) societally impactful applications in healthcare and emergency response, and 3) data-driven queueing control and asymptotic analysis. 
+I am an Assistant Professor of <a href="https://www.se.cuhk.edu.hk/" target="_blank">CUHK, SEEM</a>. I study service operations and applied probability, with special interests in 1) modern operations challenges, 2) societally impactful applications, and 3) data-driven queueing system design. 
 </p>
 
 <p>
