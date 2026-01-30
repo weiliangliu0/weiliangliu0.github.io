@@ -35,7 +35,7 @@ I served as the lead tutor and principal designer of tutorial materials for the 
 <h2>Service</h2>
 <ul>
 	<li>	
-	Communication officer and webmaster: <a href="https://connect.informs.org/aps/about-us/council" target="_blank">UINFORMS Applied Probability Society (APS)</a>
+	Communication officer and webmaster: <a href="https://connect.informs.org/aps/about-us/council" target="_blank">INFORMS Applied Probability Society (APS)</a>
 	</li>
 	<li>Journal reviewer: Manufacturing & Service Operations Management, Queueing Systems, Journal of Simulation</li>
   <li> Conference reviewer: MSOM (2025), ACM Conference on Economics and Computation (EC'26) </li>
