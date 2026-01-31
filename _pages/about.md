@@ -47,7 +47,7 @@ I am an Assistant Professor of <a href="https://www.se.cuhk.edu.hk/" target="_bl
 
 <p>
 Previously, I was a Principal Researcher at the University of Chicago Booth School of Business, mentored by Professor <a href="https://www.chicagobooth.edu/faculty/directory/w/amy-ward" target="_blank" > Amy Ward</a>.  
-I received my Ph.D. from the National University of Singapore in 2025, and B.E. in 2020 from the Shanghai Jiao Tong University.
+I received my Ph.D. from the National University of Singapore (NUS) in 2025, and B.E. in 2020 from the Shanghai Jiao Tong University.
 I also worked with Professor <a href="https://chan.mie.utoronto.ca/" target="_blank">Timothy Chan</a> from the University of Toronto, and Professor <a href="https://sites.google.com/view/xusunshomepage/home" target="_blank">Xu Sun</a> from the Miami Herbert Business School during my research training.
 </p>
 <!--
