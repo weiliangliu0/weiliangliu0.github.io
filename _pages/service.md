@@ -11,6 +11,8 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
+<h2>Services</h2>
+
 <ul>
 	<li>	
 	Communication officer and webmaster: <a href="https://connect.informs.org/aps/about-us/council" target="_blank">INFORMS Applied Probability Society (APS)</a>

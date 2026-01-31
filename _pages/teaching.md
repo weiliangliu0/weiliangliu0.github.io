@@ -11,6 +11,8 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
+<h2>Teaching</h2>
+
 <h3>The Chinese University of Hong Kong</h3>
 <ul>
 	<li>SEEM3500: Quality Control and Management --- Winter 2026</li>
