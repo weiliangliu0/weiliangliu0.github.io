@@ -11,10 +11,6 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
-
-
-<h2>Teaching</h2>
-
 <h3>The Chinese University of Hong Kong</h3>
 <ul>
 	<li>SEEM3500: Quality Control and Management --- Winter 2026</li>
@@ -32,14 +28,6 @@ I served as the lead tutor and principal designer of tutorial materials for the 
   <li> IE4213/EE4802: Learning from Data (Undergraduate, 60+ students) --- Spring 2021, Spring 2022, Spring 2023</li>
 </ul>
 
-<h2>Service</h2>
-<ul>
-	<li>	
-	Communication officer and webmaster: <a href="https://connect.informs.org/aps/about-us/council" target="_blank">INFORMS Applied Probability Society (APS)</a>
-	</li>
-	<li>Journal reviewer: Manufacturing & Service Operations Management, Queueing Systems, Journal of Simulation</li>
-  <li> Conference reviewer: MSOM (2025), ACM Conference on Economics and Computation (EC'26) </li>
-  <li> Judge: INFORMS PSOR Best Paper Competition (2024, 2025)</li>
-</ul>
+
 
 </body>
