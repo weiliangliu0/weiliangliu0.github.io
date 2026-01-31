@@ -19,6 +19,7 @@ author_profile: true
 	</li>
 	<li>Journal reviewer: Manufacturing & Service Operations Management, Queueing Systems, Journal of Simulation</li>
   <li> Conference reviewer: MSOM (2025), ACM Conference on Economics and Computation (EC'26) </li>
+    <li> Conference session chair: POMS-HK (2025) </li>
   <li> Judge: INFORMS PSOR Best Paper Competition (2024, 2025)</li>
 </ul>
 
