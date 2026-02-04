@@ -36,7 +36,7 @@ Minor Revision at <font color="#BB180E"> Mathematics of Operations Research</fon
 <ol style="margin-top: 0em; margin-bottom: 0.8em;">
 <li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>]<br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye</span><br>
-	Acepted by <font color="#BB180E"> Production & Operations Management</font> <br>
+	<font color="#BB180E"> Production & Operations Management</font>, Vol. 35, Issue 1, 2026 <br>
 	<font color="blue"> First Place</font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
 	</li>
   <!--  -->
