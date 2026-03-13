@@ -17,7 +17,7 @@ author_profile: true
 	<li>	
 	Communication officer and webmaster: <a href="https://connect.informs.org/aps/about-us/council" target="_blank">INFORMS Applied Probability Society (APS)</a>
 	</li>
-	<li>Journal reviewer: Manufacturing & Service Operations Management, Queueing Systems, Journal of Simulation</li>
+	<li>Journal reviewer: Operations Research, Manufacturing & Service Operations Management, Queueing Systems, Journal of Simulation</li>
   <li> Conference reviewer: MSOM (2025), ACM Conference on Economics and Computation (EC'26) </li>
     <li> Conference session chair: POMS-HK (2026) </li>
   <li> Judge: INFORMS PSOR Best Paper Competition (2024, 2025)</li>
