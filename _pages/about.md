@@ -70,7 +70,7 @@ Previously, I obtained my B.E. from the <a href="https://en.sjtu.edu.cn/" target
 My research uses stochastic modeling and control, queueing theory, optimization, and data analytics to tackle complex operational challenges, with a focus on:
 <ul>
 <li><b><span style="font-weight: bold;"><font color="#750F09">Modern service operations</font></span></b>: Improve service environments featured by innovative business models, initiatives, and emerging technologies, e.g., on-demand workforces, drones, and AI-augmented service systems.</li>
-<li><b><span style="font-weight: bold;"><font color="#750F09">Socially responsible operations</font></span></b>: Enhance service systems to meet societal needs and create public impact, e.g., cardiac arrest response, community first responder programs, and lift-trap rescue.
+<li><b><span style="font-weight: bold;"><font color="#750F09">Societally impactful operations</font></span></b>: Enhance service systems to meet societal needs and create public impact, e.g., cardiac arrest response, community first responder programs, and lift-trap rescue.
 </li>
 <li><b><span style="font-weight: bold;"><font color="#750F09">Data-driven queueing control</font></span></b>: Develop data-driven and provably "optimal" policies for queueing systems with unknown primitives, e.g., arrival and reneging processes.
 </li>
