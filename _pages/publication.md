@@ -14,11 +14,6 @@ author_profile: true
 <h2>Working Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.4em;" start="1">
  <!--  -->
- 	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>] <br>
-  	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
-Minor Revision at <font color="#BB180E"> Mathematics of Operations Research</font>
-	</li>
- <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
 	Under Review <br>
@@ -34,6 +29,13 @@ Minor Revision at <font color="#BB180E"> Mathematics of Operations Research</fon
 
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 0.8em;">
+
+ 	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>] <br>
+  	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
+Forthcoming at <font color="#BB180E"> Mathematics of Operations Research</font> (2026+)
+	</li>
+
+
 <li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>]<br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye</span><br>
 	<font color="#BB180E"> Production & Operations Management</font>, Vol. 35, Issue 1, 2026 <br>
