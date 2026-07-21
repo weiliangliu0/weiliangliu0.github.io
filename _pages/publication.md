@@ -34,13 +34,13 @@ author_profile: true
 <h2>Journal Publications</h2>
 <ol style="margin-top: 0em; margin-bottom: 0.8em;">
 
- 	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>] <br>
+ 	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>][<a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2025.1115" target="_blank">Paper</a>] <br>
   	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
-Forthcoming at <font color="#BB180E"> Mathematics of Operations Research</font> (2026+)
+Forthcoming at <font color="#BB180E"> Mathematics of Operations Research</font> (2026)
 	</li>
 
 
-<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>]<br>
+<li><span style="font-size: 14pt; font-weight: bold;">Robust Data-Driven Design of a Smart Cardiac Arrest Response System</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>][<a href="https://journals.sagepub.com/doi/10.1177/10591478251350096" target="_blank">Paper</a>]<br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Qiuzhuang Sun, Loon Ching Tang, Zhisheng Ye</span><br>
 	<font color="#BB180E"> Production & Operations Management</font>, Vol. 35, Issue 1, 2026 <br>
 	<font color="blue"> First Place</font>, INFORMS Society on Location Analysis Best Student Paper Award, 2023
