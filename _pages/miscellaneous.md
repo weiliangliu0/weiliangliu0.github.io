@@ -38,6 +38,7 @@ On the left is a selfie with my amazing teammates after the Windy City Cup, whil
        style="height: 300px; width: auto; object-fit: cover; margin-left: 10px;">
 </div>
 
+<!-- 
 <h2>Auto Chess</h2>
 <p>
 I love playing <a href="https://ac.dragonest.com/en/gameIntroduction" target="_blank">Auto Chess</a>, a game that masterfully blends strategy and a touch of luck! 
@@ -53,5 +54,5 @@ Players face off in pairs over multiple rounds, with the ultimate goal of being 
 <p>
 I’m proud of my average rank of 2.9 among 8 players, with 32% of matches finishing in first place. My best seasonal rank is "Queen", the top tier in the game’s ranking system. 
 </p>
-
+-->
 </body>
