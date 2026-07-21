@@ -14,6 +14,10 @@ author_profile: true
 <h2>Working Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.4em;" start="1">
  <!--  -->
+ <li>
+	<span style="font-size: 14pt; font-weight: bold;">Moving Lifelines: Fixed Sites or Mobile Fleets for Emergency Medical Device Delivery?</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119321" target="_blank">SSRN</a>]<br>
+	<span style="font-size: 12pt;"> <a href="https://limyoyo.github.io/" target="_blank">Zeyu Lin</a>, <u>Weiliang Liu</u>, <a href="https://www.jingwei-zhang.com/" target="_blank">Jingwei Zhang</a></span><br>
+</li>
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="#BB180E"> Operations Research</font> <br>
