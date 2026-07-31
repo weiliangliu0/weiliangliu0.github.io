@@ -11,7 +11,7 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
-<p style="font-size: 12pt; margin-top: 0; margin-bottom: 1em;"><sup>^</sup> student coauthor  <sup>†</sup> practitioner coauthor</p>
+<p style="font-size: 12pt; margin-top: 0; margin-bottom: 1em;"><sup>^</sup> student coauthor; <sup>†</sup> practitioner coauthor, both at the time of writing</p>
 
 <h2>Working Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.4em;" start="1">
@@ -27,7 +27,7 @@ author_profile: true
 	</li>
 	 <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic</span> [<a href="mailto:weiliangliu@cuhk.edu.hk" target="_blank">Upon Request</a>] <br>
-	<span style="font-size: 12pt;">Xin Wang, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
+	<span style="font-size: 12pt;">Xin Wang<sup>^</sup>, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="#BB180E"> Operations Research</font> <br>
 	</li>
 	<!--  -->
