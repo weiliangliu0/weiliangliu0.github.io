@@ -11,12 +11,14 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
+<p style="font-size: 12pt; margin-top: 0; margin-bottom: 1em;"><sup>^</sup> student coauthor <sup>†</sup> practitioner coauthor</p>
+
 <h2>Working Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.4em;" start="1">
  <!--  -->
  <li>
 	<span style="font-size: 14pt; font-weight: bold;">Moving Lifelines: Fixed Sites or Mobile Fleets for Emergency Medical Device Delivery?</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119321" target="_blank">SSRN</a>]<br>
-	<span style="font-size: 12pt;"> <a href="https://limyoyo.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zeyu Lin</a>, <u>Weiliang Liu</u>, <a href="https://www.jingwei-zhang.com/" target="_blank" style="color: inherit; text-decoration: none;">Jingwei Zhang</a></span><br>
+	<span style="font-size: 12pt;"> <a href="https://limyoyo.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zeyu Lin<sup>^</sup></a>, <u>Weiliang Liu</u>, <a href="https://www.jingwei-zhang.com/" target="_blank" style="color: inherit; text-decoration: none;">Jingwei Zhang</a></span><br>, , <a href="https://www.sgh.com.sg/doctor/emergency-medicine/marcus-ong" target="_blank" style="color: inherit; text-decoration: none;">Marcus EH Ong<sup>†</sup> (Singapore General Hospital & Duke-NUS Medical School)</a></span><br>
 </li>
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
