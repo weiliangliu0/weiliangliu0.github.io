@@ -11,7 +11,7 @@ author_profile: true
 <!-- <body style="font-family: sans-serif; font-size: 9pt;"> -->
 <body style="font-family: Open Sans; font-style: light; font-size: 14pt;">
 
-<p style="font-size: 12pt; margin-top: 0; margin-bottom: 1em;"><sup>^</sup> student coauthor; <sup>†</sup> practitioner coauthor, both at the time of writing</p>
+<p style="font-size: 12pt; margin-top: 0; margin-bottom: 1em;"><sup>^</sup> student coauthor (at the time of writing); <sup>†</sup> practitioner coauthor</p>
 
 <h2>Working Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.4em;" start="1">
