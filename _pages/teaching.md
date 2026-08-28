@@ -15,8 +15,8 @@ author_profile: true
 
 <h3>The Chinese University of Hong Kong</h3>
 <ul>
-<li>SEEM3410: System Modeling and Simulation --- Fall 2026</li>
-	<li>SEEM3500: Quality Control and Management --- Winter 2026</li>
+<li>SEEM3410: System Modeling and Simulation (Undergraduate core) --- Fall 2026</li>
+	<li>SEEM3500: Quality Control and Management (Undergraduate elective) --- Winter 2026</li>
 </ul>
 
 <h3>The University of Chicago Booth School of Business</h3>
