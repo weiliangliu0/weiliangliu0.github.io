@@ -14,12 +14,14 @@ author_profile: true
 <h2>Teaching</h2>
 
 <h3>The Chinese University of Hong Kong</h3>
+I am teaching the following courses:
 <ul>
 <li>SEEM3410: System Modeling and Simulation (Undergraduate core) --- Fall 2026</li>
 	<li>SEEM3500: Quality Control and Management (Undergraduate elective) --- Winter 2026</li>
 </ul>
 
 <h3>The University of Chicago Booth School of Business</h3>
+I served as the teaching assistant for the following course:
 <ul>
 	<li>Bus 40110: Managing Service Operation (MBA, 80+ students in two sessions) --- Winter 2025</li>
 </ul>
