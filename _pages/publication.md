@@ -23,12 +23,13 @@ author_profile: true
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="#BB180E"> Operations Research</font> <br>
+		<font color="blue"> Finalist (Winner TBA)</font>, INFORMS Service Science Cluster Best Paper, 2026<br>
 	<font color="blue"> Finalist</font>, POMS-HK Best Student Paper Award, 2025
 	</li>
 	 <!--  -->
 	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic</span> [<a href="mailto:weiliangliu@cuhk.edu.hk" target="_blank">Upon Request</a>] <br>
 	<span style="font-size: 12pt;">Xin Wang<sup>^</sup>, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
-	Major Revision at <font color="#BB180E"> Operations Research</font> <br>
+	Minor Revision at <font color="#BB180E"> Operations Research</font> <br>
 	</li>
 	<!--  -->
 </ol>
