@@ -98,7 +98,7 @@ I am also pursuing a theory-centered research agenda at <span style="font-weight
 <li>Finalist, INFORMS 2026 Service Science Best Cluster Paper (Winner TBA) </li>
 <li>Finalist, 2025 POMS-HK Best Student Paper Award <br>
 	</li>
-<li>First Place, 2023 INFORMS SOLA Best Student Paper Award [<a href="https://www.informs.org/Recognizing-Excellence/Award-Recipients/Weiliang-Liu" target="_blank">Info</a>]<br>
+<li>Winner, 2023 INFORMS SOLA Best Student Paper Award [<a href="https://www.informs.org/Recognizing-Excellence/Award-Recipients/Weiliang-Liu" target="_blank">Info</a>]<br>
 <!-- <em>
 "Given biennially for student papers judged to be the best in the broad field of facility location"
 </em>-->
