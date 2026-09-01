@@ -78,7 +78,7 @@ My research uses stochastic modeling and control, queueing theory, optimization,
 </p>
 
 <p>
-My <a href="https://weiliangliu0.github.io/research/" target="_blank">research works</a> have been published in top outlets, including Operations Research, Mathematics of Operations Research, Manufacturing & Service Operations Management, and Production & Operations Management, and have received notable recognitions, including the INFORMS SOLA Best Student Paper Award, and a finalist of the POMS-HK Best Student Paper Award.
+My <a href="https://weiliangliu0.github.io/research/" target="_blank">research works</a> have been published in top outlets, including Operations Research, Mathematics of Operations Research, Manufacturing & Service Operations Management, and Production & Operations Management, and have received notable recognitions, including the INFORMS SOLA Best Student Paper Award, and finalist honors for the POMS-HK Best Student Paper Award and INFORMS Service Science Best Cluster Paper Award.
 </p>
 
 <!--
