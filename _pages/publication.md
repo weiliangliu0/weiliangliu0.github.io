@@ -40,7 +40,7 @@ author_profile: true
 </ol>
 
 <h2>Journal Publications</h2>
-<ol style="margin-top: 0em; margin-bottom: 0.8em;">
+<ol style="margin-top: 0em; margin-bottom: 0.8em;" start="5">
 
  	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>][<a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2025.1115" target="_blank">Paper</a>] <br>
   	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
