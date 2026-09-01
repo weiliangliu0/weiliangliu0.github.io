@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Publication"
-permalink: /publication/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -15,6 +15,10 @@ author_profile: true
 
 <h2>Working Papers</h2>
 <ol style="margin-top: 0em; margin-bottom: 1.4em;" start="1">
+ <li>
+	<span style="font-size: 14pt; font-weight: bold;">AED-equipped Taxi Network Design for Cardiac Arrest Response</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7385418" target="_blank">SSRN</a>]<br>
+	<span style="font-size: 12pt;">Juan Yin, Zhisheng Ye, <u>Weiliang Liu</u></span><br>
+</li>
  <!--  -->
  <li>
 	<span style="font-size: 14pt; font-weight: bold;">Moving Lifelines: Fixed Sites or Mobile Fleets for Volunteer-Enabled Emergency Medical Device Delivery?</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119321" target="_blank">SSRN</a>] [<a href="/files/moving_lifeline_web.mp4" target="_blank" rel="noopener">2-Minute Video</a>]<br>
