@@ -28,7 +28,7 @@ author_profile: true
 	<li><span style="font-size: 14pt; font-weight: bold;">Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Timothy Chan, Loon Ching Tang, Zhisheng Ye</span><br>
 	Major Revision at <font color="#BB180E"> Operations Research</font> <br>
-		<font color="blue"> Finalist (Winner TBA)</font>, INFORMS Service Science Cluster Best Paper, 2026<br>
+		<font color="blue"> Finalist</font>, INFORMS Service Science Best Cluster Paper, 2026 (Winner TBA)<br>
 	<font color="blue"> Finalist</font>, POMS-HK Best Student Paper Award, 2025
 	</li>
 	 <!--  -->
