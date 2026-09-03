@@ -144,7 +144,7 @@ Papers may appear under more than one topic when they contribute to multiple res
 
 ## Data-Driven Decision Making
 
-*Build data-to-decision pipelines that combine statistical learning and optimization to produce implementable decisions with theoretical performance guarantees.*
+*Build data-to-decision pipelines that combine statistical estimation and optimization to produce implementable decisions.*
 
 ### AED-equipped Taxi Network Design for Cardiac Arrest Response <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7385418" target="_blank">SSRN</a>]</span>
 
