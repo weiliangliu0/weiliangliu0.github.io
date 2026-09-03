@@ -110,7 +110,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 ## Applied Probability for Modern Service Operations
 
-*Develop and apply queueing, stochastic-process, and asymptotic methods to understand and optimize emerging service systems under operational uncertainty.*
+*Develop and apply queueing, stochastic-control, and asymptotic methods to understand and optimize emerging service systems under operational uncertainty.*
 
 ### Data-Driven Matching for Impatient and Heterogeneous Demand and Supply <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>] [<a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2025.1115" target="_blank">Paper</a>]</span>
 
