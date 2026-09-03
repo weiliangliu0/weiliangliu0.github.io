@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Research by Time"
     url: /research/
+
+  - title: "Research by Topic"
+    url: /research-by-topic/
 
   - title: "Teaching"
     url: /teaching/  
