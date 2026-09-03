@@ -54,9 +54,7 @@ author_profile: true
 
 <div class="research-topic-page" markdown="1">
 
-This page classifies my research works into three themes: (1) Operations Research for Social Good, (2) Applied Probability for Modern Service Operations, and (3) Data-Driven Decision Making.
-
-Papers may appear under more than one topic when they contribute to multiple research areas.
+This page classifies my research works into three themes: (1) Operations Research for Social Good, (2) Applied Probability for Modern Service Operations, and (3) Data-Driven Decision Making. Papers may appear under more than one topic.
 
 <p style="font-size: 12pt; margin-top: 0; margin-bottom: 1em;"><sup>^</sup> student coauthor (at the time of writing); <sup>†</sup> practitioner coauthor</p>
 
