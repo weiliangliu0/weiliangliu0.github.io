@@ -72,7 +72,7 @@ My research uses stochastic modeling and control, queueing theory, optimization,
 <li><b><span style="font-weight: bold;"><font color="#750F09">Societally impactful operations</font></span></b>: Enhance service systems to meet societal needs and create public impact, e.g., cardiac arrest response, community first responder programs, and lift-trap rescue.
 </li>
 <li><b><span style="font-weight: bold;"><font color="#750F09">Modern service operations</font></span></b>: Improve service environments featured by innovative business models, initiatives, and emerging technologies, e.g., on-demand workforces, drones, and AI-augmented service systems.</li>
-<li><b><span style="font-weight: bold;"><font color="#750F09">Data-driven decision making</font></span></b>: Build data-to-decision pipelines that combine statistical estimation and structural optimization to produce implementable decisions.
+<li><b><span style="font-weight: bold;"><font color="#750F09">Data-driven operational decision making</font></span></b>: Build data-to-decision pipelines that combine statistical estimation and structural optimization to improve operational decisions
 </li>
 </ul>
 </p>
