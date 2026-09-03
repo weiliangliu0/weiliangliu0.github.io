@@ -138,7 +138,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 ## Data-Driven Decision Making
 
-*Build data-to-decision pipelines that combine statistical estimation and optimization to produce implementable decisions.*
+*Build data-to-decision pipelines that combine statistical estimation and structural optimization to produce implementable decisions.*
 
 ### AED-equipped Taxi Network Design for Cardiac Arrest Response <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7385418" target="_blank">SSRN</a>]</span>
 
