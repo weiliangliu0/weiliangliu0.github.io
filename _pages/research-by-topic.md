@@ -58,7 +58,7 @@ author_profile: true
 
 <div class="research-topic-page" markdown="1">
 
-This page classifies my research works into three themes: (1) **Operations Research for Social Good**, (2) **Applied Probability for Modern Service Operations**, and (3) **Data-Driven Operational Decision Making**. Papers may appear under more than one topic.
+This page classifies my research works into three themes: (1) **Operations Research for Social Good**, (2) **Applied Probability for Modern Service Operations**, and (3) **Data-Driven Operations Management**. Papers may appear under more than one topic.
 
 <p style="font-size: 12pt; margin-top: 0; margin-bottom: 1em;"><sup>^</sup> student coauthor (at the time of writing); <sup>†</sup> practitioner coauthor</p>
 
@@ -136,7 +136,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-status"><span class="venue">Manufacturing &amp; Service Operations Management</span>, Vol. 24, No. 3, 2022</p>
 
-## Data-Driven Operational Decision Making
+## Data-Driven Operations Management
 
 *Build data-to-decision pipelines that combine statistical estimation and structural optimization to improve operational decisions.*
 
