@@ -32,7 +32,7 @@ author_profile: true
 	<font color="blue"> Finalist</font>, POMS-HK Best Student Paper Award, 2025
 	</li>
 	 <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic</span> [<a href="mailto:weiliangliu@cuhk.edu.hk" target="_blank">Upon Request</a>] <br>
+	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7428640" target="_blank">SSRN</a>] <br>
 	<span style="font-size: 12pt;">Xin Wang<sup>^</sup>, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
 	Minor Revision at <font color="#BB180E"> Operations Research</font> <br>
 	</li>
