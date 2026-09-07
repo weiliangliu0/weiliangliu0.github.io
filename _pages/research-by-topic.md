@@ -88,7 +88,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-award"><span class="award-result">Finalist</span>, POMS-HK Best Student Paper Award, 2025</p>
 
-### Location-Allocation of Emergency Service Systems in Light Traffic <span class="paper-links">[<a href="mailto:weiliangliu@cuhk.edu.hk" target="_blank">Upon Request</a>]</span>
+### Location-Allocation of Emergency Service Systems in Light Traffic <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7428640" target="_blank">SSRN</a>]</span>
 
 <p class="paper-authors">Xin Wang<sup>^</sup>, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</p>
 
@@ -118,7 +118,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-status">Forthcoming at <span class="venue">Mathematics of Operations Research</span> (2026)</p>
 
-### Location-Allocation of Emergency Service Systems in Light Traffic <span class="paper-links">[<a href="mailto:weiliangliu@cuhk.edu.hk" target="_blank">Upon Request</a>]</span>
+### Location-Allocation of Emergency Service Systems in Light Traffic <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7428640" target="_blank">SSRN</a>]</span>
 
 <p class="paper-authors">Xin Wang<sup>^</sup>, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</p>
 
