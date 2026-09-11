@@ -31,16 +31,15 @@ author_profile: true
 		<font color="blue"> Finalist</font>, INFORMS Service Science Best Cluster Paper, 2026 (Winner TBA)<br>
 	<font color="blue"> Finalist</font>, POMS-HK Best Student Paper Award, 2025
 	</li>
-	 <!--  -->
-	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7428640" target="_blank">SSRN</a>] <br>
-	<span style="font-size: 12pt;">Xin Wang<sup>^</sup>, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
-	Minor Revision at <font color="#BB180E"> Operations Research</font> <br>
-	</li>
-	<!--  -->
 </ol>
 
 <h2>Journal Publications</h2>
-<ol style="margin-top: 0em; margin-bottom: 0.8em;" start="5">
+<ol style="margin-top: 0em; margin-bottom: 0.8em;" start="4">
+
+	<li><span style="font-size: 14pt; font-weight: bold;">Location-Allocation of Emergency Service Systems in Light Traffic</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7428640" target="_blank">SSRN</a>] <br>
+	<span style="font-size: 12pt;">Xin Wang<sup>^</sup>, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</span><br>
+	Forthcoming at <font color="#BB180E"> Operations Research</font>
+	</li>
 
  	<li><span style="font-size: 14pt; font-weight: bold;">Data-Driven Matching for Impatient and Heterogeneous Demand and Supply</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>][<a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2025.1115" target="_blank">Paper</a>] <br>
   	<span style="font-size: 12pt;"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</span><br>
