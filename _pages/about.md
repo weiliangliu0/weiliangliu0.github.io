@@ -42,7 +42,7 @@ redirect_from:
 <!-- <h2>About Me</h2>-->
 
 <p class="adjust-line-length"> 
-I am an Assistant Professor of <a href="https://www.se.cuhk.edu.hk/" target="_blank">CUHK, SEEM</a>. I study service operations and applied probability, with interests in societally impactful applications, modern operations challenges, and Data-driven operations management. 
+I am an Assistant Professor of <a href="https://www.se.cuhk.edu.hk/" target="_blank">CUHK, SEEM</a>. I study service operations and applied probability, with interests in societally impactful applications, modern operations challenges, and data-driven operations management. 
 </p>
 
 <p>
