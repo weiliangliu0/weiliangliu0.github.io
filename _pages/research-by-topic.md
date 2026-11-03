@@ -84,7 +84,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-status">Major Revision at <span class="venue">Operations Research</span></p>
 
-<p class="paper-award"><span class="award-result">Finalist</span>, INFORMS Service Science Best Cluster Paper, 2026 (Winner TBA)</p>
+<p class="paper-award"><span class="award-result">Winner</span>, INFORMS Service Science Best Cluster Paper, 2026 </p>
 
 <p class="paper-award"><span class="award-result">Finalist</span>, POMS-HK Best Student Paper Award, 2025</p>
 
