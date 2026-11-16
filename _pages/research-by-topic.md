@@ -76,7 +76,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-authors"><a href="https://limyoyo.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zeyu Lin<sup>^</sup></a>, <u>Weiliang Liu</u>, <a href="https://www.jingwei-zhang.com/" target="_blank" style="color: inherit; text-decoration: none;">Jingwei Zhang</a>, <a href="https://www.sgh.com.sg/doctor/emergency-medicine/marcus-ong" target="_blank" style="color: inherit; text-decoration: none;">Marcus EH Ong<sup>†</sup> (Singapore General Hospital & Duke-NUS Medical School)</a></p>
 
-<p class="paper-status">Under Review</p>
+	Major Revision at <font color="#BB180E"> Management Science</font> <br>
 
 ### Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>]</span>
 
