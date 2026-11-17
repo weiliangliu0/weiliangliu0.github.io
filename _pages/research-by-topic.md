@@ -93,7 +93,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 <p class="paper-authors">Xin Wang<sup>^</sup>, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</p>
 
 
-<p class="paper-status">Publised Online at <font color="#BB180E"> Operations Research</font> (2026+)</p>
+<p class="paper-status">Published Online at <font color="#BB180E"> Operations Research</font> (2026+)</p>
 
 ### Robust Data-Driven Design of a Smart Cardiac Arrest Response System <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>] [<a href="https://journals.sagepub.com/doi/10.1177/10591478251350096" target="_blank">Paper</a>]</span>
 
@@ -117,13 +117,13 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-authors"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</p>
 
-<p class="paper-status">Publised Online at <span class="venue">Mathematics of Operations Research</span> (2026)</p>
+<p class="paper-status">Published Online at <span class="venue">Mathematics of Operations Research</span> (2026)</p>
 
 ### Location-Allocation of Emergency Service Systems in Light Traffic <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7428640" target="_blank">SSRN</a>]</span>
 
 <p class="paper-authors">Xin Wang<sup>^</sup>, <u>Weiliang Liu</u>, Loon Ching Tang, Zhisheng Ye</p>
 
-<p class="paper-status">Publised Online at <font color="#BB180E"> Operations Research</font> (2026+)</p>
+<p class="paper-status">Published Online at <font color="#BB180E"> Operations Research</font> (2026+)</p>
 
 ### Expanding Service Capabilities Through an On-Demand Workforce <span class="paper-links">[<a href="https://pubsonline.informs.org/doi/10.1287/opre.2021.0651" target="_blank">Paper</a>]</span>
 
@@ -151,7 +151,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-authors"><u>Weiliang Liu</u>, Amy Ward, Xun Zhang</p>
 
-<p class="paper-status">Publised Online at <span class="venue">Mathematics of Operations Research</span> (2026)</p>
+<p class="paper-status">Published Online at <span class="venue">Mathematics of Operations Research</span> (2026)</p>
 
 ### Robust Data-Driven Design of a Smart Cardiac Arrest Response System <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4590433" target="_blank">SSRN</a>] [<a href="https://journals.sagepub.com/doi/10.1177/10591478251350096" target="_blank">Paper</a>]</span>
 
