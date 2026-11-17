@@ -70,13 +70,13 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-authors">Juan Yin, Zhisheng Ye, <u>Weiliang Liu</u></p>
 
-<p class="paper-status">Working Paper</p>
+
+<p class="paper-status">R&R at <span class="venue">Production and Operations Management</span></p>
 
 ### Moving Lifelines: Fixed Sites or Mobile Fleets for Volunteer-Enabled Emergency Medical Device Delivery? <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119321" target="_blank">SSRN</a>] [<a href="/files/moving_lifeline_web.mp4" target="_blank" rel="noopener">2-Minute Video</a>]</span>
 
 <p class="paper-authors"><a href="https://limyoyo.github.io/" target="_blank" style="color: inherit; text-decoration: none;">Zeyu Lin<sup>^</sup></a>, <u>Weiliang Liu</u>, <a href="https://www.jingwei-zhang.com/" target="_blank" style="color: inherit; text-decoration: none;">Jingwei Zhang</a>, <a href="https://www.sgh.com.sg/doctor/emergency-medicine/marcus-ong" target="_blank" style="color: inherit; text-decoration: none;">Marcus EH Ong<sup>†</sup> (Singapore General Hospital & Duke-NUS Medical School)</a></p>
-
-	Major Revision at <font color="#BB180E"> Management Science</font> <br>
+<p class="paper-status">Major Revision at <span class="venue">Management Science</span></p>
 
 ### Community Responder Crowdsourcing for Time-Sensitive Medical Emergencies <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4863710" target="_blank">SSRN</a>]</span>
 
@@ -145,7 +145,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-authors">Juan Yin, Zhisheng Ye, <u>Weiliang Liu</u></p>
 
-<p class="paper-status">Working Paper</p>
+<p class="paper-status">R&R at <span class="venue">Production and Operations Management</span></p>
 
 ### Data-Driven Matching for Impatient and Heterogeneous Demand and Supply <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>] [<a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2025.1115" target="_blank">Paper</a>]</span>
 
