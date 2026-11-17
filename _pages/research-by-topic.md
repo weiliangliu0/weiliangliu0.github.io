@@ -71,7 +71,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 <p class="paper-authors">Juan Yin, Zhisheng Ye, <u>Weiliang Liu</u></p>
 
 
-<p class="paper-status">R&R at <span class="venue">Production and Operations Management</span></p>
+<p class="paper-status">R&R at <span class="venue">Production & Operations Management</span></p>
 
 ### Moving Lifelines: Fixed Sites or Mobile Fleets for Volunteer-Enabled Emergency Medical Device Delivery? <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7119321" target="_blank">SSRN</a>] [<a href="/files/moving_lifeline_web.mp4" target="_blank" rel="noopener">2-Minute Video</a>]</span>
 
@@ -145,7 +145,7 @@ This page classifies my research works into three themes: (1) **Operations Resea
 
 <p class="paper-authors">Juan Yin, Zhisheng Ye, <u>Weiliang Liu</u></p>
 
-<p class="paper-status">R&R at <span class="venue">Production and Operations Management</span></p>
+<p class="paper-status">R&R at <span class="venue">Production & Operations Management</span></p>
 
 ### Data-Driven Matching for Impatient and Heterogeneous Demand and Supply <span class="paper-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5346227" target="_blank">SSRN</a>] [<a href="https://pubsonline.informs.org/doi/abs/10.1287/moor.2025.1115" target="_blank">Paper</a>]</span>
 

@@ -18,7 +18,7 @@ author_profile: true
  <li>
 	<span style="font-size: 14pt; font-weight: bold;">AED-equipped Taxi Network Design for Cardiac Arrest Response</span> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7385418" target="_blank">SSRN</a>]<br>
 	<span style="font-size: 12pt;">Juan Yin, Zhisheng Ye, <u>Weiliang Liu</u></span><br>
-	R&R at <font color="#BB180E"> Production and Operations Management</font> <br>
+	R&R at <font color="#BB180E"> Production & Operations Management</font> <br>
 </li>
  <!--  -->
  <li>
